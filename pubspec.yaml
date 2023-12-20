@@ -1,0 +1,245 @@
+name: myapp
+description: A exported flutter project from FUNCTION12
+
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  google_fonts: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^2.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/page-1/images/like-btn.png
+    - assets/page-1/images/auto-group-kxv7.png
+    - assets/page-1/images/hamburger.png
+    - assets/page-1/images/back-button.png
+    - assets/page-1/images/rectangle-13-bg.png
+    - assets/page-1/images/vector.png
+    - assets/page-1/images/edit-btn.png
+    - assets/page-1/images/like-btn-qkh.png
+    - assets/page-1/images/google.png
+    - assets/page-1/images/like-btn-y3s.png
+    - assets/page-1/images/like-btn-ZqF.png
+    - assets/page-1/images/back-button-ai1.png
+    - assets/page-1/images/rectangle-8-bg.png
+    - assets/page-1/images/back-button-JDT.png
+    - assets/page-1/images/clarity-success-standard-solid.png
+    - assets/page-1/images/back-button-aNy.png
+    - assets/page-1/images/rectangle-19-bg.png
+    - assets/page-1/images/rectangle-8-bg-2rH.png
+    - assets/page-1/images/image-6.png
+    - assets/page-1/images/progress-bar.png
+    - assets/page-1/images/rectangle-13-bg-Phf.png
+    - assets/page-1/images/chip.png
+    - assets/page-1/images/save-item.png
+    - assets/page-1/images/save-item-jws.png
+    - assets/page-1/images/hamburger-4cm.png
+    - assets/page-1/images/vector-tbF.png
+    - assets/page-1/images/group-32.png
+    - assets/page-1/images/complete-star.png
+    - assets/page-1/images/group-33.png
+    - assets/page-1/images/like-btn-3cZ.png
+    - assets/page-1/images/save-item-KiV.png
+    - assets/page-1/images/image-7.png
+    - assets/page-1/images/auto-group-ytsb.png
+    - assets/page-1/images/progress-indicator.png
+    - assets/page-1/images/auto-group-6esd.png
+    - assets/page-1/images/auto-group-rnaw.png
+    - assets/page-1/images/group-33-ee1.png
+    - assets/page-1/images/image-6-yRP.png
+    - assets/page-1/images/navbar.png
+    - assets/page-1/images/auto-group-ccqh.png
+    - assets/page-1/images/auto-group-oym1.png
+    - assets/page-1/images/vector-D65.png
+    - assets/page-1/images/back-button-2Ds.png
+    - assets/page-1/images/vector-CZb.png
+    - assets/page-1/images/image-5.png
+    - assets/page-1/images/vector-yNV.png
+    - assets/page-1/images/auto-group-vupq.png
+    - assets/page-1/images/back-button-Uys.png
+    - assets/page-1/images/save-item-unD.png
+    - assets/page-1/images/back-button-Vfs.png
+    - assets/page-1/images/hamburger-CQV.png
+    - assets/page-1/images/back-button-HtH.png
+    - assets/page-1/images/auto-group-kcuj.png
+    - assets/page-1/images/product-thumbnail-bg.png
+    - assets/page-1/images/selected-card-indicator.png
+    - assets/page-1/images/auto-group-qv5y.png
+    - assets/page-1/images/hamburger-5G9.png
+    - assets/page-1/images/rectangle-16.png
+    - assets/page-1/images/progress-indicator-zNq.png
+    - assets/page-1/images/mask-group.png
+    - assets/page-1/images/vector-Ps3.png
+    - assets/page-1/images/auto-group-gsvm.png
+    - assets/page-1/images/ellipse-37.png
+    - assets/page-1/images/chip-bYZ.png
+    - assets/page-1/images/vector-jPs.png
+    - assets/page-1/images/product-thumbnail-bg-hV7.png
+    - assets/page-1/images/product-thumbnail-bg-3KK.png
+    - assets/page-1/images/ellipse-19-bg.png
+    - assets/page-1/images/rectangle-55-bg.png
+    - assets/page-1/images/back-button-rnZ.png
+    - assets/page-1/images/ellipse-27-bg.png
+    - assets/page-1/images/ellipse-35-bg.png
+    - assets/page-1/images/product-thumbnail-bg-7Tb.png
+    - assets/page-1/images/vector-4td.png
+    - assets/page-1/images/search.png
+    - assets/page-1/images/hamburger-bmP.png
+    - assets/page-1/images/image-8.png
+    - assets/page-1/images/product-thumbnail-bg-reh.png
+    - assets/page-1/images/auto-group-d34o.png
+    - assets/page-1/images/ellipse-11-bg.png
+    - assets/page-1/images/vector-Aqj.png
+    - assets/page-1/images/rectangle-57-bg.png
+    - assets/page-1/images/save-item-cSq.png
+    - assets/page-1/images/product-thumbnail-bg-vHj.png
+    - assets/page-1/images/navbar-iHT.png
+    - assets/page-1/images/save-item-FKK.png
+    - assets/page-1/images/product-thumbnail-bg-7MX.png
+    - assets/page-1/images/waves.png
+    - assets/page-1/images/user-image-bg.png
+    - assets/page-1/images/vector-1d7.png
+    - assets/page-1/images/rectangle-65.png
+    - assets/page-1/images/vector-smf.png
+    - assets/page-1/images/ellipse-29-bg.png
+    - assets/page-1/images/vector-kGu.png
+    - assets/page-1/images/navmenu.png
+    - assets/page-1/images/vector-rGV.png
+    - assets/page-1/images/back-button-ETP.png
+    - assets/page-1/images/social-login.png
+    - assets/page-1/images/vector-joB.png
+    - assets/page-1/images/search-HjB.png
+    - assets/page-1/images/ellipse-17-bg.png
+    - assets/page-1/images/save-item-qUR.png
+    - assets/page-1/images/focus-selector.png
+    - assets/page-1/images/ellipse-21-bg.png
+    - assets/page-1/images/back-button-2yT.png
+    - assets/page-1/images/rectangle-13-bg-R8y.png
+    - assets/page-1/images/mask-group-t53.png
+    - assets/page-1/images/ellipse-13-bg.png
+    - assets/page-1/images/rectangle-11-bg.png
+    - assets/page-1/images/rectangle-11-bg-BgH.png
+    - assets/page-1/images/rectangle-11-bg-HVf.png
+    - assets/page-1/images/save-item-JhT.png
+    - assets/page-1/images/vector-2NZ.png
+    - assets/page-1/images/save-item-o2V.png
+    - assets/page-1/images/rectangle-65-LiZ.png
+    - assets/page-1/images/mu-account-btn.png
+    - assets/page-1/images/vector-p37.png
+    - assets/page-1/images/ellipse-15-bg.png
+    - assets/page-1/images/vector-Mbs.png
+    - assets/page-1/images/save-item-DpR.png
+    - assets/page-1/images/save-item-G3w.png
+    - assets/page-1/images/rectangle-8-bg-kmb.png
+    - assets/page-1/images/cam-field-bg.png
+    - assets/page-1/images/vector-eFf.png
+    - assets/page-1/images/image-10.png
+    - assets/page-1/images/navbar-pvZ.png
+    - assets/page-1/images/ellipse-25-bg.png
+    - assets/page-1/images/ellipse-23-bg.png
+    - assets/page-1/images/save-item-zMs.png
+    - assets/page-1/images/rectangle-56-bg.png
+    - assets/page-1/images/ellipse-36.png
+    - assets/page-1/images/image-9.png
+    - assets/page-1/images/user-image-bg-Xoj.png
+    - assets/page-1/images/hamburger-DSu.png
+    - assets/page-1/images/save-item-DJM.png
+    - assets/page-1/images/navbar-qLH.png
+    - assets/page-1/images/save-item-C9K.png
+    - assets/page-1/images/image-2.png
+    - assets/page-1/images/social-login-5id.png
+    - assets/page-1/images/product-thumbnail-bg-Vf3.png
+    - assets/page-1/images/product-thumbnail-bg-gX7.png
+    - assets/page-1/images/product-thumbnail-bg-ePP.png
+    - assets/page-1/images/product-thumbnail-bg-rVK.png
+    - assets/page-1/images/image-4.png
+    - assets/page-1/images/image-11.png
+    - assets/page-1/images/image-1.png
+    - assets/page-1/images/save-item-m9X.png
+    - assets/page-1/images/close-.png
+    - assets/page-1/images/navbar-vj7.png
+    - assets/page-1/images/image-11-rJq.png
+    - assets/page-1/images/image-3.png
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
