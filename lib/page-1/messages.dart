@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // messages4tV (28:364)
+        // messageszqJ (28:364)
         padding: EdgeInsets.fromLTRB(15*fem, 64*fem, 15*fem, 20*fem),
         width: double.infinity,
         decoration: BoxDecoration (
@@ -23,14 +23,14 @@ class Scene extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Container(
-              // autogroupkogoMMo (PW9KnPjUzMrkZTaL2okogo)
+              // autogroupuvxwgTE (RzCn6xEHje4DymrcvBuvXW)
               margin: EdgeInsets.fromLTRB(20*fem, 0*fem, 13*fem, 32*fem),
               width: double.infinity,
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // backbuttonftH (28:432)
+                    // backbutton1Ec (28:432)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 21*fem, 0*fem),
                     child: TextButton(
                       onPressed: () {},
@@ -41,7 +41,7 @@ class Scene extends StatelessWidget {
                         width: 46*fem,
                         height: 46*fem,
                         child: Image.asset(
-                          'assets/page-1/images/back-button-Vfs.png',
+                          'assets/page-1/images/back-button-4aG.png',
                           width: 46*fem,
                           height: 46*fem,
                         ),
@@ -49,7 +49,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // messagesMFK (28:435)
+                    // messagesJDi (28:435)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 110*fem, 1*fem),
                     child: Text(
                       'Messages',
@@ -63,7 +63,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // hamburgerT3T (28:368)
+                    // hamburger188 (28:368)
                     margin: EdgeInsets.fromLTRB(0*fem, 9*fem, 0*fem, 0*fem),
                     child: TextButton(
                       onPressed: () {},
@@ -74,7 +74,7 @@ class Scene extends StatelessWidget {
                         width: 33*fem,
                         height: 33*fem,
                         child: Image.asset(
-                          'assets/page-1/images/hamburger-5G9.png',
+                          'assets/page-1/images/hamburger-zpC.png',
                           width: 33*fem,
                           height: 33*fem,
                         ),
@@ -85,7 +85,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // searchbar8QV (28:373)
+              // searchbaruUQ (28:373)
               margin: EdgeInsets.fromLTRB(12*fem, 0*fem, 13*fem, 23*fem),
               padding: EdgeInsets.fromLTRB(20*fem, 15*fem, 23*fem, 17*fem),
               width: double.infinity,
@@ -97,7 +97,7 @@ class Scene extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // searchinmessagesDwj (28:379)
+                    // searchinmessagesCCc (28:379)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 133*fem, 0*fem),
                     child: Text(
                       'Search in messages',
@@ -111,12 +111,12 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // vectorvr9 (30:116)
+                    // vectorhv4 (30:116)
                     margin: EdgeInsets.fromLTRB(0*fem, 1*fem, 0*fem, 0*fem),
                     width: 18*fem,
                     height: 18*fem,
                     child: Image.asset(
-                      'assets/page-1/images/vector-D65.png',
+                      'assets/page-1/images/vector-164.png',
                       width: 18*fem,
                       height: 18*fem,
                     ),
@@ -125,7 +125,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // messagelisteXF (30:128)
+              // messagelistpjn (30:128)
               margin: EdgeInsets.fromLTRB(12*fem, 0*fem, 13*fem, 25*fem),
               width: double.infinity,
               height: 575*fem,
@@ -133,7 +133,7 @@ class Scene extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // group12Ycd (30:118)
+                    // group12KRe (30:118)
                     padding: EdgeInsets.fromLTRB(15*fem, 15*fem, 16*fem, 7*fem),
                     width: double.infinity,
                     height: 90*fem,
@@ -145,7 +145,7 @@ class Scene extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.end,
                       children: [
                         Container(
-                          // group46F1F (57:89)
+                          // group462L4 (57:89)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 10*fem, 8*fem),
                           padding: EdgeInsets.fromLTRB(42*fem, 46*fem, 4*fem, 0*fem),
                           width: 60*fem,
@@ -160,7 +160,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           child: Align(
-                            // ellipse12Kmo (30:26)
+                            // ellipse12iCt (30:26)
                             alignment: Alignment.bottomRight,
                             child: SizedBox(
                               width: double.infinity,
@@ -175,7 +175,7 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // autogrouptn67FQZ (PW9PihLjpAAss5b7TDtn67)
+                          // autogroupgb2cS8t (RzCqZrTYCTxm5ZsZcbGb2c)
                           margin: EdgeInsets.fromLTRB(0*fem, 5*fem, 5*fem, 5*fem),
                           width: 212*fem,
                           height: double.infinity,
@@ -183,14 +183,14 @@ class Scene extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Container(
-                                // group2ks7 (30:35)
+                                // group2A4t (30:35)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 4*fem),
                                 width: double.infinity,
                                 child: Row(
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      // djimavicmini25uP (30:24)
+                                      // djimavicmini2u2U (30:24)
                                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 5*fem, 0*fem),
                                       child: Text(
                                         'DJI Mavic Mini 2',
@@ -204,7 +204,7 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Text(
-                                      // paulmolivePv5 (30:25)
+                                      // paulmolivecSg (30:25)
                                       '| Paul Molive',
                                       style: SafeGoogleFont (
                                         'Fira Sans',
@@ -237,7 +237,7 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Text(
-                          // am2y3 (30:34)
+                          // amGn8 (30:34)
                           '9:03 AM',
                           textAlign: TextAlign.right,
                           style: SafeGoogleFont (
@@ -255,7 +255,7 @@ class Scene extends StatelessWidget {
                     height: 10*fem,
                   ),
                   Container(
-                    // group13xrh (30:119)
+                    // group13b3i (30:119)
                     padding: EdgeInsets.fromLTRB(15*fem, 15*fem, 16*fem, 7*fem),
                     width: double.infinity,
                     decoration: BoxDecoration (
@@ -266,7 +266,7 @@ class Scene extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // group47g21 (57:90)
+                          // group47WgU (57:90)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 10*fem, 8*fem),
                           padding: EdgeInsets.fromLTRB(42*fem, 46*fem, 4*fem, 0*fem),
                           width: 60*fem,
@@ -281,7 +281,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           child: Align(
-                            // ellipse14mJM (30:40)
+                            // ellipse14QG4 (30:40)
                             alignment: Alignment.bottomRight,
                             child: SizedBox(
                               width: double.infinity,
@@ -296,21 +296,21 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // autogroupaxsmhC1 (PW9PRCqtDnyXGP5baxaxsm)
+                          // autogroup1xvsLfW (RzCqHrvBiMqhAJNvN81xVS)
                           margin: EdgeInsets.fromLTRB(0*fem, 5*fem, 0*fem, 0*fem),
                           width: 258*fem,
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.end,
                             children: [
                               Container(
-                                // group3Dg9 (30:37)
+                                // group357J (30:37)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 34*fem, 4*fem),
                                 width: double.infinity,
                                 child: Row(
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      // djimavicmini2MXT (30:38)
+                                      // djimavicmini2Cxc (30:38)
                                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 4*fem, 0*fem),
                                       child: Text(
                                         'DJI Mavic Mini 2',
@@ -324,7 +324,7 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Text(
-                                      // peteycruiserg3w (30:39)
+                                      // peteycruiserjBr (30:39)
                                       '| Petey Cruiser',
                                       style: SafeGoogleFont (
                                         'Fira Sans',
@@ -338,7 +338,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // peteysorryimunlistingitQkd (30:41)
+                                // peteysorryimunlistingit5Fi (30:41)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 85*fem, 7*fem),
                                 child: Text(
                                   'Petey: Sorry, I’m unlisting it',
@@ -352,7 +352,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Text(
-                                // yesterday412pmhjj (30:42)
+                                // yesterday412pmY9J (30:42)
                                 'Yesterday 4:12 PM',
                                 textAlign: TextAlign.right,
                                 style: SafeGoogleFont (
@@ -373,7 +373,7 @@ class Scene extends StatelessWidget {
                     height: 10*fem,
                   ),
                   Container(
-                    // group14cLu (30:120)
+                    // group14Rit (30:120)
                     padding: EdgeInsets.fromLTRB(15*fem, 15*fem, 16*fem, 7*fem),
                     width: double.infinity,
                     decoration: BoxDecoration (
@@ -384,7 +384,7 @@ class Scene extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // group48vcV (57:91)
+                          // group48YoW (57:91)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 10*fem, 8*fem),
                           padding: EdgeInsets.fromLTRB(42*fem, 46*fem, 4*fem, 0*fem),
                           width: 60*fem,
@@ -399,7 +399,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           child: Align(
-                            // ellipse16d17 (30:47)
+                            // ellipse16FC8 (30:47)
                             alignment: Alignment.bottomRight,
                             child: SizedBox(
                               width: double.infinity,
@@ -414,21 +414,21 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // autogroup9byvxZB (PW9P3xxGrn6Sy72uBD9ByV)
+                          // autogroupccsePJL (RzCptYFiFsaZ2hhZsmcCse)
                           margin: EdgeInsets.fromLTRB(0*fem, 5*fem, 0*fem, 0*fem),
                           width: 258*fem,
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Container(
-                                // group4VJD (30:44)
+                                // group4vJG (30:44)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 46*fem, 4*fem),
                                 width: double.infinity,
                                 child: Row(
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      // djimavicair223F (30:45)
+                                      // djimavicair2fWk (30:45)
                                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 5*fem, 0*fem),
                                       child: Text(
                                         'DJI Mavic Air 2',
@@ -442,7 +442,7 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Text(
-                                      // annasthesiaLpd (30:46)
+                                      // annasthesiazJ8 (30:46)
                                       '| Anna Sthesia',
                                       style: SafeGoogleFont (
                                         'Fira Sans',
@@ -456,7 +456,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // autogrouppwxfUvq (PW9P7t1RCM1XrWTjZnPwxf)
+                                // autogrouprxrpLct (RzCpxTJrbSVdv78QGLrxrp)
                                 width: double.infinity,
                                 height: 39*fem,
                                 child: Stack(
@@ -483,7 +483,7 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Positioned(
-                                      // feb21930pm7iu (30:49)
+                                      // feb21930pmfYg (30:49)
                                       left: 165*fem,
                                       top: 24*fem,
                                       child: Align(
@@ -517,7 +517,7 @@ class Scene extends StatelessWidget {
                     height: 10*fem,
                   ),
                   Container(
-                    // group15Bim (30:121)
+                    // group159Cx (30:121)
                     padding: EdgeInsets.fromLTRB(15*fem, 15*fem, 16*fem, 7*fem),
                     width: double.infinity,
                     decoration: BoxDecoration (
@@ -528,7 +528,7 @@ class Scene extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // group496aq (57:92)
+                          // group494ap (57:92)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 10*fem, 8*fem),
                           padding: EdgeInsets.fromLTRB(42*fem, 46*fem, 4*fem, 0*fem),
                           width: 60*fem,
@@ -543,7 +543,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           child: Align(
-                            // ellipse18RmX (30:54)
+                            // ellipse18xgC (30:54)
                             alignment: Alignment.bottomRight,
                             child: SizedBox(
                               width: double.infinity,
@@ -558,21 +558,21 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // autogroupgycxkoo (PW9NkPdDyxHQmzaZPQGycX)
+                          // autogroupjpfjHTa (RzCpb3krfWPCS1C41WJPfJ)
                           margin: EdgeInsets.fromLTRB(0*fem, 5*fem, 0*fem, 0*fem),
                           width: 258*fem,
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.end,
                             children: [
                               Container(
-                                // group5stR (30:51)
+                                // group5pCc (30:51)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 18*fem, 4*fem),
                                 width: double.infinity,
                                 child: Row(
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      // appleairpodspro1jj (30:52)
+                                      // appleairpodsprokc4 (30:52)
                                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 5*fem, 0*fem),
                                       child: Text(
                                         'Apple AirPods Pro',
@@ -586,7 +586,7 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Text(
-                                      // bobfrapplesLGD (30:53)
+                                      // bobfrapplessRn (30:53)
                                       '| Bob Frapples',
                                       style: SafeGoogleFont (
                                         'Fira Sans',
@@ -600,7 +600,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // bobyourwelcomesmw (30:55)
+                                // bobyourwelcomepM2 (30:55)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 134*fem, 7*fem),
                                 child: Text(
                                   'Bob: You’r welcome',
@@ -614,7 +614,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Text(
-                                // jan211030amzLm (30:56)
+                                // jan211030am8sW (30:56)
                                 '25 Jan 21, 10:30 AM',
                                 textAlign: TextAlign.right,
                                 style: SafeGoogleFont (
@@ -635,7 +635,7 @@ class Scene extends StatelessWidget {
                     height: 10*fem,
                   ),
                   Container(
-                    // group167AV (30:122)
+                    // group16Tet (30:122)
                     padding: EdgeInsets.fromLTRB(15*fem, 15*fem, 16*fem, 7*fem),
                     width: double.infinity,
                     decoration: BoxDecoration (
@@ -646,7 +646,7 @@ class Scene extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // group50csw (57:93)
+                          // group50azQ (57:93)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 10*fem, 8*fem),
                           padding: EdgeInsets.fromLTRB(42*fem, 46*fem, 4*fem, 0*fem),
                           width: 60*fem,
@@ -661,7 +661,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           child: Align(
-                            // ellipse20WTX (30:66)
+                            // ellipse20V5n (30:66)
                             alignment: Alignment.bottomRight,
                             child: SizedBox(
                               width: double.infinity,
@@ -676,14 +676,14 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // autogroupdkumEuK (PW9NBVQNthGmQvCBjUdKuM)
+                          // autogroupo8axptk (RzCp34g9hJ94bUCmWZo8ax)
                           margin: EdgeInsets.fromLTRB(0*fem, 4*fem, 0*fem, 0*fem),
                           width: 258*fem,
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Container(
-                                // autogroupwgzhZRo (PW9NGuR2LXG8ykdtjqwGZh)
+                                // autogroupfupvZbS (RzCp8ZWzRak7kibJSUfUPv)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 4*fem),
                                 width: double.infinity,
                                 height: 21*fem,
@@ -691,13 +691,13 @@ class Scene extends StatelessWidget {
                                   crossAxisAlignment: CrossAxisAlignment.end,
                                   children: [
                                     Container(
-                                      // group6gWR (30:63)
+                                      // group6ss2 (30:63)
                                       margin: EdgeInsets.fromLTRB(0*fem, 1*fem, 10*fem, 0*fem),
                                       child: Row(
                                         crossAxisAlignment: CrossAxisAlignment.center,
                                         children: [
                                           Container(
-                                            // jblcharge2speaPvd (30:64)
+                                            // jblcharge2speaoEt (30:64)
                                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 5*fem, 0*fem),
                                             child: Text(
                                               'JBL Charge 2 Spea...',
@@ -711,7 +711,7 @@ class Scene extends StatelessWidget {
                                             ),
                                           ),
                                           Text(
-                                            // gretalifehwK (30:65)
+                                            // gretalife7mN (30:65)
                                             '| Greta Life',
                                             style: SafeGoogleFont (
                                               'Fira Sans',
@@ -725,7 +725,7 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Container(
-                                      // messagecountereLm (30:132)
+                                      // messagecounter4Ri (30:132)
                                       width: 21*fem,
                                       height: double.infinity,
                                       decoration: BoxDecoration (
@@ -749,7 +749,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // gretaalrightvp5 (30:67)
+                                // gretaalrightLe8 (30:67)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 7*fem),
                                 child: Text(
                                   'Greta: Alright',
@@ -763,7 +763,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // dec20923am3Nu (30:68)
+                                // dec20923am4a8 (30:68)
                                 margin: EdgeInsets.fromLTRB(161*fem, 0*fem, 0*fem, 0*fem),
                                 child: Text(
                                   '20 Dec 20, 9:23 AM',
@@ -787,7 +787,7 @@ class Scene extends StatelessWidget {
                     height: 10*fem,
                   ),
                   Container(
-                    // group17XJ5 (30:123)
+                    // group17Mp8 (30:123)
                     padding: EdgeInsets.fromLTRB(15*fem, 15*fem, 16*fem, 7*fem),
                     width: double.infinity,
                     decoration: BoxDecoration (
@@ -798,7 +798,7 @@ class Scene extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // group51EiH (57:94)
+                          // group515VE (57:94)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 10*fem, 8*fem),
                           padding: EdgeInsets.fromLTRB(42*fem, 46*fem, 4*fem, 0*fem),
                           width: 60*fem,
@@ -813,7 +813,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           child: Align(
-                            // ellipse22KDw (30:74)
+                            // ellipse22BHN (30:74)
                             alignment: Alignment.bottomRight,
                             child: SizedBox(
                               width: double.infinity,
@@ -828,21 +828,21 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // autogroupwmzdFNV (PW9Mp12BgJYeLQK1Z6WMZD)
+                          // autogroupaxlgJMz (RzCoizMw7idvqt5UBVaXLG)
                           margin: EdgeInsets.fromLTRB(0*fem, 5*fem, 0*fem, 0*fem),
                           width: 258*fem,
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Container(
-                                // group7nNR (30:71)
+                                // group7EWY (30:71)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 10*fem, 4*fem),
                                 width: double.infinity,
                                 child: Row(
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      // playstationcontrovUd (30:72)
+                                      // playstationcontrommN (30:72)
                                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 5*fem, 0*fem),
                                       child: Text(
                                         'PlayStation Contro...',
@@ -856,7 +856,7 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Text(
-                                      // iramembritSSy (30:73)
+                                      // iramembrith9E (30:73)
                                       '| Ira Membrit',
                                       style: SafeGoogleFont (
                                         'Fira Sans',
@@ -870,7 +870,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // youPND (30:76)
+                                // youS6p (30:76)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 7*fem),
                                 child: Text(
                                   'You: 👍 ',
@@ -884,7 +884,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // nov20753amu5f (30:77)
+                                // nov20753amMUg (30:77)
                                 margin: EdgeInsets.fromLTRB(162*fem, 0*fem, 0*fem, 0*fem),
                                 child: Text(
                                   '16 Nov 20, 7:53 AM',
@@ -908,7 +908,7 @@ class Scene extends StatelessWidget {
                     height: 10*fem,
                   ),
                   Container(
-                    // group18oRw (30:124)
+                    // group18rAY (30:124)
                     padding: EdgeInsets.fromLTRB(15*fem, 15*fem, 16*fem, 7*fem),
                     width: double.infinity,
                     height: 90*fem,
@@ -920,7 +920,7 @@ class Scene extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // group527hX (57:96)
+                          // group52AS8 (57:96)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 10*fem, 8*fem),
                           padding: EdgeInsets.fromLTRB(42*fem, 46*fem, 4*fem, 0*fem),
                           width: 60*fem,
@@ -935,7 +935,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           child: Align(
-                            // ellipse24c8V (30:83)
+                            // ellipse24Tw2 (30:83)
                             alignment: Alignment.bottomRight,
                             child: SizedBox(
                               width: double.infinity,
@@ -950,21 +950,21 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // autogroupwnmhYH3 (PW9MSbUBkNSCrJNfJFwnMh)
+                          // autogroupxu3znyJ (RzCoSafcDKSSxYrhKJXu3z)
                           margin: EdgeInsets.fromLTRB(0*fem, 5*fem, 0*fem, 0*fem),
                           width: 258*fem,
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Container(
-                                // group8s4R (30:80)
+                                // group8XR6 (30:80)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 60*fem, 4*fem),
                                 width: double.infinity,
                                 child: Row(
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      // canoneosm50PYZ (30:81)
+                                      // canoneosm504fv (30:81)
                                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 1*fem, 0*fem),
                                       child: Text(
                                         'Canon EOS M50 ',
@@ -978,7 +978,7 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Text(
-                                      // brockleehp9 (30:82)
+                                      // brockleeaPN (30:82)
                                       '| Brock Lee',
                                       style: SafeGoogleFont (
                                         'Fira Sans',
@@ -992,7 +992,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // youokaythatsfineFKs (30:85)
+                                // youokaythatsfinevi8 (30:85)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 7*fem),
                                 child: Text(
                                   'You: Okay. That’s fine',
@@ -1006,7 +1006,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // nov201103amASq (30:86)
+                                // nov201103amrLt (30:86)
                                 margin: EdgeInsets.fromLTRB(158*fem, 0*fem, 0*fem, 0*fem),
                                 child: Text(
                                   '11 Nov 20, 11:03 AM',
@@ -1030,7 +1030,7 @@ class Scene extends StatelessWidget {
                     height: 10*fem,
                   ),
                   Container(
-                    // group19Tgq (30:125)
+                    // group19ZWC (30:125)
                     padding: EdgeInsets.fromLTRB(15*fem, 15*fem, 16*fem, 7*fem),
                     width: double.infinity,
                     height: 90*fem,
@@ -1042,7 +1042,7 @@ class Scene extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // group53NJ1 (57:97)
+                          // group53GvQ (57:97)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 10*fem, 8*fem),
                           padding: EdgeInsets.fromLTRB(42*fem, 46*fem, 4*fem, 0*fem),
                           width: 60*fem,
@@ -1057,7 +1057,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           child: Align(
-                            // ellipse26GPP (30:92)
+                            // ellipse26yK2 (30:92)
                             alignment: Alignment.bottomRight,
                             child: SizedBox(
                               width: double.infinity,
@@ -1072,21 +1072,21 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // autogroup4qywC29 (PW9M2cAA2DFbyQ8hRZ4qYw)
+                          // autogroups66yiGc (RzCo8g1nCfAgPnd3qKS66Y)
                           margin: EdgeInsets.fromLTRB(0*fem, 5*fem, 0*fem, 0*fem),
                           width: 258*fem,
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.end,
                             children: [
                               Container(
-                                // group9gxu (30:89)
+                                // group9r7v (30:89)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 14*fem, 4*fem),
                                 width: double.infinity,
                                 child: Row(
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      // nexusmountainbQe1 (30:90)
+                                      // nexusmountainbzV2 (30:90)
                                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 5*fem, 0*fem),
                                       child: Text(
                                         'Nexus Mountain B...',
@@ -1100,7 +1100,7 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Text(
-                                      // rickosheau4y (30:91)
+                                      // rickoshea7Jk (30:91)
                                       '| Rick O\'Shea',
                                       style: SafeGoogleFont (
                                         'Fira Sans',
@@ -1114,7 +1114,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // rickalrightthanksEd3 (30:94)
+                                // rickalrightthanksT7i (30:94)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 130*fem, 7*fem),
                                 child: Text(
                                   'Rick: Alright. Thanks',
@@ -1128,7 +1128,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Text(
-                                // oct20912amYdj (30:95)
+                                // oct20912amaTE (30:95)
                                 '05 Oct 20, 9:12 AM',
                                 textAlign: TextAlign.right,
                                 style: SafeGoogleFont (
@@ -1149,7 +1149,7 @@ class Scene extends StatelessWidget {
                     height: 10*fem,
                   ),
                   Container(
-                    // group20ruK (30:126)
+                    // group20uEc (30:126)
                     padding: EdgeInsets.fromLTRB(15*fem, 15*fem, 16*fem, 7*fem),
                     width: double.infinity,
                     height: 90*fem,
@@ -1161,7 +1161,7 @@ class Scene extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // group54a4d (57:98)
+                          // group54cui (57:98)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 10*fem, 8*fem),
                           padding: EdgeInsets.fromLTRB(42*fem, 46*fem, 4*fem, 0*fem),
                           width: 60*fem,
@@ -1176,7 +1176,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           child: Align(
-                            // ellipse28TeD (30:101)
+                            // ellipse287rU (30:101)
                             alignment: Alignment.bottomRight,
                             child: SizedBox(
                               width: double.infinity,
@@ -1191,21 +1191,21 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // autogroupv6xjoCH (PW9LbcsntYgoyYYpUKV6xj)
+                          // autogroupf5heFBz (RzCnpWsNLd3s3nYvahf5hE)
                           margin: EdgeInsets.fromLTRB(0*fem, 5*fem, 0*fem, 0*fem),
                           width: 258*fem,
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Container(
-                                // group10vXo (30:98)
+                                // group10B5e (30:98)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 27*fem, 4*fem),
                                 width: double.infinity,
                                 child: Row(
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      // wildcraftrangerTGq (30:99)
+                                      // wildcraftrangeribN (30:99)
                                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 5*fem, 0*fem),
                                       child: Text(
                                         'Wildcraft Ranger...',
@@ -1219,7 +1219,7 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Text(
-                                      // barbdwyerxjP (30:100)
+                                      // barbdwyerdTS (30:100)
                                       '| Barb Dwyer',
                                       style: SafeGoogleFont (
                                         'Fira Sans',
@@ -1233,7 +1233,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // youhgy (30:103)
+                                // youynC (30:103)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 7*fem),
                                 child: Text(
                                   'You: 👍👍',
@@ -1247,7 +1247,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // oct20803pmQrH (30:104)
+                                // oct20803pmJ3n (30:104)
                                 margin: EdgeInsets.fromLTRB(163*fem, 0*fem, 0*fem, 0*fem),
                                 child: Text(
                                   '01 Oct 20, 8:03 PM',
@@ -1271,7 +1271,7 @@ class Scene extends StatelessWidget {
                     height: 10*fem,
                   ),
                   Container(
-                    // group21uY9 (30:127)
+                    // group21bYg (30:127)
                     padding: EdgeInsets.fromLTRB(15*fem, 15*fem, 16*fem, 7*fem),
                     width: double.infinity,
                     height: 90*fem,
@@ -1283,7 +1283,7 @@ class Scene extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // group551r5 (57:99)
+                          // group55KDn (57:99)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 10*fem, 8*fem),
                           padding: EdgeInsets.fromLTRB(42*fem, 46*fem, 4*fem, 0*fem),
                           width: 60*fem,
@@ -1298,7 +1298,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           child: Align(
-                            // ellipse30hiu (30:110)
+                            // ellipse301sJ (30:110)
                             alignment: Alignment.bottomRight,
                             child: SizedBox(
                               width: double.infinity,
@@ -1313,21 +1313,21 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // autogroupyyxu3Gy (PW9LCxrshjM8bFS5NKYYXu)
+                          // autogroupuvj29ic (RzCnUMnHfaAfTsnyB2UVj2)
                           margin: EdgeInsets.fromLTRB(0*fem, 5*fem, 0*fem, 0*fem),
                           width: 258*fem,
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Container(
-                                // group11yRX (30:107)
+                                // group11H48 (30:107)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 22*fem, 4*fem),
                                 width: double.infinity,
                                 child: Row(
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      // waktorocampin7Xj (30:108)
+                                      // waktorocampinbKi (30:108)
                                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 6*fem, 0*fem),
                                       child: Text(
                                         'Waktoro Campin...',
@@ -1341,7 +1341,7 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Text(
-                                      // halappenoEcM (30:109)
+                                      // halappenoiQL (30:109)
                                       '| Hal Appeno ',
                                       style: SafeGoogleFont (
                                         'Fira Sans',
@@ -1355,7 +1355,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // halokayaRK (30:112)
+                                // halokays2L (30:112)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 7*fem),
                                 child: Text(
                                   'Hal: Okay 👍',
@@ -1369,7 +1369,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // sep201124pm6Pf (30:113)
+                                // sep201124pmNzg (30:113)
                                 margin: EdgeInsets.fromLTRB(158*fem, 0*fem, 0*fem, 0*fem),
                                 child: Text(
                                   '25 Sep 20, 11:24 PM',
@@ -1393,7 +1393,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // navmenubbK (30:16)
+              // navmenu6fn (30:16)
               width: 384*fem,
               height: 54*fem,
               child: Image.asset(

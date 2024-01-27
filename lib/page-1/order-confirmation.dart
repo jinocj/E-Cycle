@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // orderconfirmationecu (53:323)
+        // orderconfirmationR96 (53:323)
         padding: EdgeInsets.fromLTRB(0*fem, 64*fem, 0*fem, 0*fem),
         width: double.infinity,
         decoration: BoxDecoration (
@@ -23,14 +23,14 @@ class Scene extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Container(
-              // autogroupkzuq9Zf (PW9Cz1EJKYoSAcfyoRkzuq)
+              // autogroupiftyupx (RzCf459Fgyx8M6UW48iftY)
               margin: EdgeInsets.fromLTRB(35*fem, 0*fem, 36*fem, 39*fem),
               width: double.infinity,
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Container(
-                    // backbuttonUbw (53:324)
+                    // backbuttonS4C (53:324)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 194*fem, 0*fem),
                     child: TextButton(
                       onPressed: () {},
@@ -41,7 +41,7 @@ class Scene extends StatelessWidget {
                         width: 46*fem,
                         height: 46*fem,
                         child: Image.asset(
-                          'assets/page-1/images/back-button-Uys.png',
+                          'assets/page-1/images/back-button-Q2G.png',
                           width: 46*fem,
                           height: 46*fem,
                         ),
@@ -49,7 +49,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    // ecyclekZT (53:327)
+                    // ecycle7RE (53:327)
                     'E-Cycle',
                     textAlign: TextAlign.center,
                     style: SafeGoogleFont (
@@ -64,18 +64,18 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // progressindicatorgT7 (53:342)
+              // progressindicatorduN (53:342)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 46*fem),
               width: 218*fem,
               height: 30*fem,
               child: Image.asset(
-                'assets/page-1/images/progress-indicator-zNq.png',
+                'assets/page-1/images/progress-indicator-bCp.png',
                 width: 218*fem,
                 height: 30*fem,
               ),
             ),
             Container(
-              // orderconfirmednW9 (53:400)
+              // orderconfirmedLon (53:400)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 156*fem, 26*fem),
               child: Text(
                 'Order Confirmed ',
@@ -89,7 +89,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // paymentsummary6Fw (53:328)
+              // paymentsummary3y6 (53:328)
               margin: EdgeInsets.fromLTRB(35*fem, 0*fem, 35*fem, 22*fem),
               padding: EdgeInsets.fromLTRB(30*fem, 33.89*fem, 30*fem, 39*fem),
               width: double.infinity,
@@ -101,7 +101,7 @@ class Scene extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // claritysuccessstandardsolidmss (53:405)
+                    // claritysuccessstandardsolid9FS (53:405)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 23.89*fem),
                     width: 62.22*fem,
                     height: 62.22*fem,
@@ -132,7 +132,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // productsummarykUu (53:408)
+              // productsummaryudv (53:408)
               margin: EdgeInsets.fromLTRB(35*fem, 0*fem, 35*fem, 102*fem),
               padding: EdgeInsets.fromLTRB(12*fem, 10*fem, 25*fem, 12*fem),
               width: double.infinity,
@@ -145,25 +145,25 @@ class Scene extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // rectangle65Rb3 (53:410)
+                    // rectangle65nhi (53:410)
                     margin: EdgeInsets.fromLTRB(0*fem, 2*fem, 12*fem, 0*fem),
                     width: 100*fem,
                     height: 100*fem,
                     child: ClipRRect(
                       borderRadius: BorderRadius.circular(12*fem),
                       child: Image.asset(
-                        'assets/page-1/images/rectangle-65.png',
+                        'assets/page-1/images/rectangle-65-CZS.png',
                       ),
                     ),
                   ),
                   Container(
-                    // autogroup7hjt8VT (PW9D9kT4XEnJavGep67hJT)
+                    // autogroupjxsehJt (RzCfE9go2WPj93rUkyJxse)
                     height: double.infinity,
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Container(
-                          // shurepodcastmicrophoneg1B (53:411)
+                          // shurepodcastmicrophoneeV2 (53:411)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 8*fem),
                           constraints: BoxConstraints (
                             maxWidth: 195*fem,
@@ -180,7 +180,7 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // trackingid989896654N8u (53:413)
+                          // trackingid9898966547dW (53:413)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 6*fem),
                           child: Text(
                             'Tracking ID: 989896654',
@@ -194,7 +194,7 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Text(
-                          // orderid985654841656589Uhj (57:70)
+                          // orderid9856548416565892Va (57:70)
                           'Order ID: 985654841656589',
                           style: SafeGoogleFont (
                             'Fira Sans',
@@ -211,7 +211,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             TextButton(
-              // gotohomebtnQLV (53:397)
+              // gotohomebtnMXr (53:397)
               onPressed: () {},
               style: TextButton.styleFrom (
                 padding: EdgeInsets.zero,

@@ -13,13 +13,13 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // colorpalettesMP (3:5)
+        // colorpalettex52 (3:5)
         width: double.infinity,
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Container(
-              // c1839foF3 (3:4)
+              // c1839fH7J (3:4)
               width: double.infinity,
               height: 100*fem,
               decoration: BoxDecoration (
@@ -30,7 +30,7 @@ class Scene extends StatelessWidget {
               height: 20*fem,
             ),
             Container(
-              // f5f5f5w6M (3:3)
+              // f5f5f5pN8 (3:3)
               width: double.infinity,
               height: 100*fem,
               decoration: BoxDecoration (
@@ -41,7 +41,7 @@ class Scene extends StatelessWidget {
               height: 20*fem,
             ),
             Container(
-              // c3c3cHAD (3:2)
+              // c3c3cZKi (3:2)
               width: double.infinity,
               height: 100*fem,
               decoration: BoxDecoration (
@@ -52,7 +52,7 @@ class Scene extends StatelessWidget {
               height: 20*fem,
             ),
             Container(
-              // ff5a5fouF (3:1)
+              // ff5a5fuPa (3:1)
               width: double.infinity,
               height: 100*fem,
               decoration: BoxDecoration (
@@ -63,7 +63,7 @@ class Scene extends StatelessWidget {
               height: 20*fem,
             ),
             Container(
-              // e8bkpV (3:0)
+              // e8b41a (3:0)
               width: double.infinity,
               height: 100*fem,
               decoration: BoxDecoration (

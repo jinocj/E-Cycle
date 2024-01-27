@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // sidebaruy7 (21:114)
+        // sidebare3N (21:114)
         width: double.infinity,
         height: 896*fem,
         decoration: BoxDecoration (
@@ -22,7 +22,7 @@ class Scene extends StatelessWidget {
         child: Stack(
           children: [
             Positioned(
-              // autogroupmp6fSTF (PW9RHV4o8Lkxb5wjiJmp6f)
+              // autogroupxsrrZw2 (RzCtQGjaNJQJJXrbxfxSRr)
               left: 40*fem,
               top: 772*fem,
               child: Container(
@@ -32,7 +32,7 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // feedbackbtnxRb (57:12)
+                      // feedbackbtn58g (57:12)
                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 24*fem, 0*fem),
                       width: 165*fem,
                       height: double.infinity,
@@ -54,7 +54,7 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Container(
-                      // signoutbtnQ2h (57:78)
+                      // signoutbtnLKW (57:78)
                       width: 165*fem,
                       height: double.infinity,
                       decoration: BoxDecoration (
@@ -79,69 +79,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // autogroupndpzTFs (PW9QcRMZ38DoKTcDk7ndPZ)
-              left: 26*fem,
-              top: 71*fem,
-              child: Container(
-                width: 360*fem,
-                height: 45*fem,
-                child: Row(
-                  crossAxisAlignment: CrossAxisAlignment.center,
-                  children: [
-                    Container(
-                      // ecycleN7w (21:174)
-                      margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 23*fem, 4*fem),
-                      child: Text(
-                        'E-Cycle',
-                        textAlign: TextAlign.center,
-                        style: SafeGoogleFont (
-                          'Dosis',
-                          fontSize: 32*ffem,
-                          fontWeight: FontWeight.w800,
-                          height: 1.265*ffem/fem,
-                          color: Color(0xff3c3c3c),
-                        ),
-                      ),
-                    ),
-                    Container(
-                      // feedbackbtnGUD (305:79)
-                      margin: EdgeInsets.fromLTRB(0*fem, 1*fem, 26*fem, 0*fem),
-                      width: 175*fem,
-                      height: 44*fem,
-                      decoration: BoxDecoration (
-                        border: Border.all(color: Color(0xff3c3c3c)),
-                        borderRadius: BorderRadius.circular(12*fem),
-                      ),
-                      child: Center(
-                        child: Text(
-                          '🎟️  320 points',
-                          style: SafeGoogleFont (
-                            'Fira Sans',
-                            fontSize: 23*ffem,
-                            fontWeight: FontWeight.w700,
-                            height: 1.2*ffem/fem,
-                            color: Color(0xff000000),
-                          ),
-                        ),
-                      ),
-                    ),
-                    Container(
-                      // vectorWtM (21:171)
-                      margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 4*fem),
-                      width: 33*fem,
-                      height: 33*fem,
-                      child: Image.asset(
-                        'assets/page-1/images/vector-2NZ.png',
-                        width: 33*fem,
-                        height: 33*fem,
-                      ),
-                    ),
-                  ],
-                ),
-              ),
-            ),
-            Positioned(
-              // autogroup2xuwq9w (PW9QmzuvftyJYwKEuh2XUw)
+              // autogroup8nond3i (RzCsrY9TFU1DFEhoEN8NoN)
               left: 34*fem,
               top: 140*fem,
               child: Container(
@@ -150,7 +88,7 @@ class Scene extends StatelessWidget {
                 child: Stack(
                   children: [
                     Positioned(
-                      // myaccountkGu (57:79)
+                      // myaccountxLt (57:79)
                       left: 0*fem,
                       top: 0*fem,
                       child: Container(
@@ -165,24 +103,24 @@ class Scene extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             Container(
-                              // vectorRP3 (28:528)
+                              // vectorFKz (28:528)
                               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 25.16*fem, 6*fem),
                               width: 26.84*fem,
                               height: 30*fem,
                               child: Image.asset(
-                                'assets/page-1/images/vector-Aqj.png',
+                                'assets/page-1/images/vector-N52.png',
                                 width: 26.84*fem,
                                 height: 30*fem,
                               ),
                             ),
                             Container(
-                              // autogroup6sbuLku (PW9QuurQdVR9vA7jcP6Sbu)
+                              // autogroupdtfvZba (RzCt1CZgmBzCxB1jExDtFv)
                               width: 207*fem,
                               height: double.infinity,
                               child: Stack(
                                 children: [
                                   Positioned(
-                                    // myaccounttXX (28:531)
+                                    // myaccount7d6 (28:531)
                                     left: 0*fem,
                                     top: 0*fem,
                                     child: Align(
@@ -203,7 +141,7 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   Positioned(
-                                    // edityoudetailsaccountsettingsa (28:532)
+                                    // edityoudetailsaccountsettings1 (28:532)
                                     left: 0*fem,
                                     top: 19*fem,
                                     child: Align(
@@ -247,7 +185,7 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Positioned(
-                      // myordersdG9 (57:80)
+                      // myordersBet (57:80)
                       left: 0*fem,
                       top: 108*fem,
                       child: Container(
@@ -262,24 +200,24 @@ class Scene extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             Container(
-                              // vectoruzM (28:529)
+                              // vectorsXi (28:529)
                               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 25*fem, 3*fem),
                               width: 27*fem,
                               height: 30*fem,
                               child: Image.asset(
-                                'assets/page-1/images/vector-eFf.png',
+                                'assets/page-1/images/vector-ZQg.png',
                                 width: 27*fem,
                                 height: 30*fem,
                               ),
                             ),
                             Container(
-                              // autogrouphaxuF2d (PW9R3A9LKQwYY5McvihAXu)
+                              // autogrouphontPkx (RzCt97WAinS4KPpDweHoNt)
                               height: double.infinity,
                               child: Column(
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
                                   Text(
-                                    // myorderso49 (28:534)
+                                    // myordersY84 (28:534)
                                     'My Orders',
                                     style: SafeGoogleFont (
                                       'Fira Sans',
@@ -290,7 +228,7 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   Text(
-                                    // viewallyourordersvuT (28:535)
+                                    // viewallyourordersH5e (28:535)
                                     'View all your orders',
                                     style: SafeGoogleFont (
                                       'Adamina',
@@ -308,16 +246,22 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Positioned(
-                      // image104km (305:93)
+                      // image10Qg4 (305:93)
                       left: 260*fem,
                       top: 48*fem,
                       child: Align(
                         child: SizedBox(
                           width: 168*fem,
                           height: 119*fem,
-                          child: Image.asset(
-                            'assets/page-1/images/image-10.png',
-                            fit: BoxFit.cover,
+                          child: TextButton(
+                            onPressed: () {},
+                            style: TextButton.styleFrom (
+                              padding: EdgeInsets.zero,
+                            ),
+                            child: Image.asset(
+                              'assets/page-1/images/image-10.png',
+                              fit: BoxFit.cover,
+                            ),
                           ),
                         ),
                       ),
@@ -327,7 +271,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // mylistingNmT (57:81)
+              // mylisting7Ka (57:81)
               left: 34*fem,
               top: 356*fem,
               child: Container(
@@ -342,24 +286,24 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // vectorrwX (28:530)
+                      // vectorCM2 (28:530)
                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 25*fem, 2*fem),
                       width: 27*fem,
                       height: 20*fem,
                       child: Image.asset(
-                        'assets/page-1/images/vector-Ps3.png',
+                        'assets/page-1/images/vector-i8C.png',
                         width: 27*fem,
                         height: 20*fem,
                       ),
                     ),
                     Container(
-                      // autogrouppjvwymF (PW9RmyFLBHARWHEKSPpJvw)
+                      // autogroupzmmeKwS (RzCtr1Vh46WEe6wvDoZmMe)
                       width: 205*fem,
                       height: double.infinity,
                       child: Stack(
                         children: [
                           Positioned(
-                            // mylistingsXXs (28:537)
+                            // mylistingsUpL (28:537)
                             left: 0*fem,
                             top: 0*fem,
                             child: Align(
@@ -380,7 +324,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Positioned(
-                            // viewyourproductlistingforsalep (28:538)
+                            // viewyourproductlistingforsalez (28:538)
                             left: 0*fem,
                             top: 28*fem,
                             child: Align(
@@ -408,126 +352,51 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // mylistinggp5 (302:27)
+              // mylisting5ZE (302:27)
               left: 32*fem,
               top: 574*fem,
-              child: Container(
-                padding: EdgeInsets.fromLTRB(0*fem, 10*fem, 45*fem, 8*fem),
-                width: 346*fem,
-                height: 88*fem,
-                decoration: BoxDecoration (
-                  color: Color(0xffd4e4e6),
-                  borderRadius: BorderRadius.circular(22*fem),
+              child: TextButton(
+                onPressed: () {},
+                style: TextButton.styleFrom (
+                  padding: EdgeInsets.zero,
                 ),
-                child: Row(
-                  crossAxisAlignment: CrossAxisAlignment.center,
-                  children: [
-                    Container(
-                      // image9kZ3 (305:91)
-                      width: 80*fem,
-                      height: 70*fem,
-                      child: Image.asset(
-                        'assets/page-1/images/image-9.png',
-                        fit: BoxFit.cover,
-                      ),
-                    ),
-                    Container(
-                      // autogroupys1zVFj (PW9RuJNT9fJVicR2gGyS1Z)
-                      margin: EdgeInsets.fromLTRB(0*fem, 12*fem, 0*fem, 13*fem),
-                      width: 221*fem,
-                      height: double.infinity,
-                      child: Stack(
-                        children: [
-                          Positioned(
-                            // newstorecbF (302:30)
-                            left: 1*fem,
-                            top: 0*fem,
-                            child: Align(
-                              child: SizedBox(
-                                width: 113*fem,
-                                height: 29*fem,
-                                child: Text(
-                                  'NEW Store',
-                                  style: SafeGoogleFont (
-                                    'Fira Sans',
-                                    fontSize: 24*ffem,
-                                    fontWeight: FontWeight.w500,
-                                    height: 1.2*ffem/fem,
-                                    color: Color(0xff5e5e5e),
-                                  ),
-                                ),
-                              ),
-                            ),
-                          ),
-                          Positioned(
-                            // buyrecycledrefurbishedproducts (302:31)
-                            left: 0*fem,
-                            top: 27*fem,
-                            child: Align(
-                              child: SizedBox(
-                                width: 221*fem,
-                                height: 18*fem,
-                                child: Text(
-                                  'Buy recycled/Refurbished Products',
-                                  style: SafeGoogleFont (
-                                    'Adamina',
-                                    fontSize: 13*ffem,
-                                    fontWeight: FontWeight.w400,
-                                    height: 1.3625*ffem/fem,
-                                    color: Color(0xff5e5e5e),
-                                  ),
-                                ),
-                              ),
-                            ),
-                          ),
-                        ],
-                      ),
-                    ),
-                  ],
-                ),
-              ),
-            ),
-            Positioned(
-              // autogroupxv4p1tH (PW9RAjm39AvfXeNowEXV4P)
-              left: 25*fem,
-              top: 675.6743164062*fem,
-              child: Container(
-                width: 353*fem,
-                height: 73.36*fem,
-                child: Stack(
-                  children: [
-                    Positioned(
-                      // mylistingjpH (305:82)
-                      left: 7*fem,
-                      top: 0*fem,
-                      child: Container(
-                        width: 346*fem,
-                        height: 73.36*fem,
-                        decoration: BoxDecoration (
-                          color: Color(0xffd4e4e6),
-                          borderRadius: BorderRadius.circular(22*fem),
+                child: Container(
+                  padding: EdgeInsets.fromLTRB(0*fem, 10*fem, 45*fem, 8*fem),
+                  width: 346*fem,
+                  height: 88*fem,
+                  decoration: BoxDecoration (
+                    color: Color(0xffd4e4e6),
+                    borderRadius: BorderRadius.circular(22*fem),
+                  ),
+                  child: Row(
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    children: [
+                      Container(
+                        // image9wrL (305:91)
+                        width: 80*fem,
+                        height: 70*fem,
+                        child: Image.asset(
+                          'assets/page-1/images/image-9.png',
+                          fit: BoxFit.cover,
                         ),
+                      ),
+                      Container(
+                        // autogroupyuwxJRz (RzCtzWFXzuFsADNCPJYUWx)
+                        margin: EdgeInsets.fromLTRB(0*fem, 12*fem, 0*fem, 13*fem),
+                        width: 221*fem,
+                        height: double.infinity,
                         child: Stack(
                           children: [
                             Positioned(
-                              // vectoreRT (305:87)
-                              left: 29*fem,
-                              top: 28.3417358398*fem,
-                              child: Container(
-                                width: 27*fem,
-                                height: 16.67*fem,
-                              ),
-                            ),
-                            Positioned(
-                              // aiproductcustmizationnXf (305:85)
-                              left: 76*fem,
-                              top: 13.3256835938*fem,
+                              // newstoreEqS (302:30)
+                              left: 1*fem,
+                              top: 0*fem,
                               child: Align(
                                 child: SizedBox(
-                                  width: 259*fem,
+                                  width: 113*fem,
                                   height: 29*fem,
                                   child: Text(
-                                    'AI product custmization',
+                                    'NEW Store',
                                     style: SafeGoogleFont (
                                       'Fira Sans',
                                       fontSize: 24*ffem,
@@ -540,15 +409,15 @@ class Scene extends StatelessWidget {
                               ),
                             ),
                             Positioned(
-                              // buyrecycledrefurbishedproducts (305:86)
-                              left: 80*fem,
-                              top: 40.8455200195*fem,
+                              // buyrecycledrefurbishedproducts (302:31)
+                              left: 0*fem,
+                              top: 27*fem,
                               child: Align(
                                 child: SizedBox(
-                                  width: 149*fem,
+                                  width: 221*fem,
                                   height: 18*fem,
                                   child: Text(
-                                    'Customize on Recycling',
+                                    'Buy recycled/Refurbished Products',
                                     style: SafeGoogleFont (
                                       'Adamina',
                                       fontSize: 13*ffem,
@@ -563,9 +432,109 @@ class Scene extends StatelessWidget {
                           ],
                         ),
                       ),
+                    ],
+                  ),
+                ),
+              ),
+            ),
+            Positioned(
+              // autogroup87unp2x (RzCtGh7sYYRBJxqQxA87uN)
+              left: 25*fem,
+              top: 675.6743164062*fem,
+              child: Container(
+                width: 384*fem,
+                height: 73.36*fem,
+                child: Stack(
+                  children: [
+                    Positioned(
+                      // mylistingYDr (305:82)
+                      left: 7*fem,
+                      top: 0*fem,
+                      child: TextButton(
+                        onPressed: () {},
+                        style: TextButton.styleFrom (
+                          padding: EdgeInsets.zero,
+                        ),
+                        child: Container(
+                          width: 377*fem,
+                          height: 73.36*fem,
+                          child: Stack(
+                            children: [
+                              Positioned(
+                                // rectangle314T6 (305:83)
+                                left: 0*fem,
+                                top: 0*fem,
+                                child: Align(
+                                  child: SizedBox(
+                                    width: 346*fem,
+                                    height: 73.36*fem,
+                                    child: Container(
+                                      decoration: BoxDecoration (
+                                        borderRadius: BorderRadius.circular(22*fem),
+                                        color: Color(0xffd4e4e6),
+                                      ),
+                                    ),
+                                  ),
+                                ),
+                              ),
+                              Positioned(
+                                // vectoryKA (305:87)
+                                left: 29*fem,
+                                top: 28.3417358398*fem,
+                                child: Container(
+                                  width: 27*fem,
+                                  height: 16.67*fem,
+                                ),
+                              ),
+                              Positioned(
+                                // aiproductcustmizationinY (305:85)
+                                left: 76*fem,
+                                top: 13.3256835938*fem,
+                                child: Align(
+                                  child: SizedBox(
+                                    width: 259*fem,
+                                    height: 29*fem,
+                                    child: Text(
+                                      'AI product custmization',
+                                      style: SafeGoogleFont (
+                                        'Fira Sans',
+                                        fontSize: 24*ffem,
+                                        fontWeight: FontWeight.w500,
+                                        height: 1.2*ffem/fem,
+                                        color: Color(0xff5e5e5e),
+                                      ),
+                                    ),
+                                  ),
+                                ),
+                              ),
+                              Positioned(
+                                // buyrecycledrefurbishedproducts (305:86)
+                                left: 80*fem,
+                                top: 40.8455200195*fem,
+                                child: Align(
+                                  child: SizedBox(
+                                    width: 149*fem,
+                                    height: 18*fem,
+                                    child: Text(
+                                      'Customize on Recycling',
+                                      style: SafeGoogleFont (
+                                        'Adamina',
+                                        fontSize: 13*ffem,
+                                        fontWeight: FontWeight.w400,
+                                        height: 1.3625*ffem/fem,
+                                        color: Color(0xff5e5e5e),
+                                      ),
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
                     ),
                     Positioned(
-                      // image8xqT (305:89)
+                      // image8vdi (305:89)
                       left: 0*fem,
                       top: 0.3256835938*fem,
                       child: Align(
@@ -584,7 +553,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // likeditems5QH (57:82)
+              // likeditemsTde (57:82)
               left: 34*fem,
               top: 464*fem,
               child: Container(
@@ -599,24 +568,24 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // vectorxys (28:545)
+                      // vectorvn8 (28:545)
                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 21.6*fem, 4*fem),
                       width: 34.4*fem,
                       height: 30*fem,
                       child: Image.asset(
-                        'assets/page-1/images/vector-Mbs.png',
+                        'assets/page-1/images/vector-oNt.png',
                         width: 34.4*fem,
                         height: 30*fem,
                       ),
                     ),
                     Container(
-                      // autogroupbklfHFT (PW9S68Pk3KHErHJSh1bKLF)
+                      // autogroupbxbeFZW (RzCuC5kaSgmkdbm3hwBxBE)
                       width: 228*fem,
                       height: double.infinity,
                       child: Stack(
                         children: [
                           Positioned(
-                            // likeditems2D3 (28:541)
+                            // likeditemsarg (28:541)
                             left: 0*fem,
                             top: 0*fem,
                             child: Align(
@@ -665,7 +634,85 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // wavesot1 (21:181)
+              // autogroupphbsBrU (RzCsfYTmnto6vjvjNYPhBS)
+              left: 26*fem,
+              top: 71*fem,
+              child: Container(
+                width: 360*fem,
+                height: 45*fem,
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.center,
+                  children: [
+                    Container(
+                      // ecycleuXa (21:174)
+                      margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 23*fem, 4*fem),
+                      child: Text(
+                        'E-Cycle',
+                        textAlign: TextAlign.center,
+                        style: SafeGoogleFont (
+                          'Dosis',
+                          fontSize: 32*ffem,
+                          fontWeight: FontWeight.w800,
+                          height: 1.265*ffem/fem,
+                          color: Color(0xff3c3c3c),
+                        ),
+                      ),
+                    ),
+                    Container(
+                      // group70dCg (367:341)
+                      margin: EdgeInsets.fromLTRB(0*fem, 1*fem, 26*fem, 0*fem),
+                      child: TextButton(
+                        onPressed: () {},
+                        style: TextButton.styleFrom (
+                          padding: EdgeInsets.zero,
+                        ),
+                        child: Container(
+                          width: 175*fem,
+                          height: 44*fem,
+                          decoration: BoxDecoration (
+                            borderRadius: BorderRadius.circular(12*fem),
+                          ),
+                          child: Container(
+                            // feedbackbtnuAC (305:79)
+                            width: double.infinity,
+                            height: double.infinity,
+                            decoration: BoxDecoration (
+                              border: Border.all(color: Color(0xff3c3c3c)),
+                              borderRadius: BorderRadius.circular(12*fem),
+                            ),
+                            child: Center(
+                              child: Text(
+                                '🎟️  320 points',
+                                style: SafeGoogleFont (
+                                  'Fira Sans',
+                                  fontSize: 23*ffem,
+                                  fontWeight: FontWeight.w700,
+                                  height: 1.2*ffem/fem,
+                                  color: Color(0xff000000),
+                                ),
+                              ),
+                            ),
+                          ),
+                        ),
+                      ),
+                    ),
+                    Container(
+                      // vectoryvk (21:171)
+                      margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 4*fem),
+                      width: 33*fem,
+                      height: 33*fem,
+                      child: Image.asset(
+                        'assets/page-1/images/vector-KjJ.png',
+                        width: 33*fem,
+                        height: 33*fem,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+            Positioned(
+              // wavesupQ (21:181)
               left: 0*fem,
               top: 801*fem,
               child: Align(
@@ -681,7 +728,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // ecycleincversion10KrM (28:562)
+              // ecycleincversion10E5z (28:562)
               left: 157*fem,
               top: 873*fem,
               child: Align(

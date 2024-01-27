@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // myaccountnb7 (21:3)
+        // myaccount29r (21:3)
         padding: EdgeInsets.fromLTRB(27*fem, 47*fem, 0*fem, 147*fem),
         width: double.infinity,
         decoration: BoxDecoration (
@@ -23,7 +23,7 @@ class Scene extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Container(
-              // autogroupar39gAh (PW9VVnDQSFC9oyTAPCAR39)
+              // autogroupdgf6uDe (RzCxuJuHiSVhnQN7BvdGF6)
               margin: EdgeInsets.fromLTRB(3*fem, 0*fem, 28*fem, 53*fem),
               width: double.infinity,
               height: 96*fem,
@@ -31,13 +31,13 @@ class Scene extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // profilepiczSH (57:77)
+                    // profilepic23N (57:77)
                     width: 96*fem,
                     height: double.infinity,
                     child: Stack(
                       children: [
                         Positioned(
-                          // userimageLm3 (21:5)
+                          // userimageAvG (21:5)
                           left: 2*fem,
                           top: 2*fem,
                           child: Align(
@@ -47,7 +47,6 @@ class Scene extends StatelessWidget {
                               child: Container(
                                 decoration: BoxDecoration (
                                   borderRadius: BorderRadius.circular(45.5*fem),
-                                  color: Color(0xffc4c4c4),
                                   image: DecorationImage (
                                     fit: BoxFit.cover,
                                     image: AssetImage (
@@ -60,7 +59,7 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Positioned(
-                          // ellipse1qC1 (21:27)
+                          // ellipse1s3z (21:27)
                           left: 0*fem,
                           top: 0*fem,
                           child: Align(
@@ -80,21 +79,21 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // autogroupelfu8gu (PW9VcrqwZFVBF4oPrSeLfu)
+                    // autogroupubcxmv4 (RzCy2ogoFjs9BZSUGtuBcx)
                     padding: EdgeInsets.fromLTRB(25*fem, 22*fem, 0*fem, 23*fem),
                     height: double.infinity,
                     child: Row(
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // userdetailsTjB (57:76)
+                          // userdetailsHtQ (57:76)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 71*fem, 0*fem),
                           width: 131*fem,
                           height: double.infinity,
                           child: Stack(
                             children: [
                               Positioned(
-                                // aliceeveCAy (21:6)
+                                // aliceevedBa (21:6)
                                 left: 0*fem,
                                 top: 0*fem,
                                 child: Align(
@@ -115,7 +114,7 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Positioned(
-                                // aliceevegmailcomGgd (21:66)
+                                // aliceevegmailcomiTv (21:66)
                                 left: 0*fem,
                                 top: 34*fem,
                                 child: Align(
@@ -139,7 +138,7 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // closexpM (21:60)
+                          // closePpx (21:60)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 6*fem),
                           child: TextButton(
                             onPressed: () {},
@@ -164,7 +163,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // myaccount4sP (21:7)
+              // myaccount6UU (21:7)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 20*fem),
               child: Text(
                 'My account',
@@ -178,14 +177,14 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // nameyUZ (57:75)
+              // nameD3J (57:75)
               margin: EdgeInsets.fromLTRB(5*fem, 0*fem, 0*fem, 21*fem),
               width: 349*fem,
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Container(
-                    // nameJWq (21:70)
+                    // namewjz (21:70)
                     margin: EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 6*fem),
                     child: Text(
                       'Name:',
@@ -199,7 +198,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // nametextfieldRLZ (21:77)
+                    // nametextfieldTyE (21:77)
                     padding: EdgeInsets.fromLTRB(20*fem, 10*fem, 17*fem, 11*fem),
                     width: double.infinity,
                     decoration: BoxDecoration (
@@ -210,7 +209,7 @@ class Scene extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // aliceeve7z5 (21:72)
+                          // aliceeveP6C (21:72)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 224*fem, 0*fem),
                           child: Text(
                             'Alice Eve',
@@ -224,12 +223,12 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // vectorqfB (21:76)
+                          // vectorhsa (21:76)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 2*fem),
                           width: 18*fem,
                           height: 18*fem,
                           child: Image.asset(
-                            'assets/page-1/images/vector-kGu.png',
+                            'assets/page-1/images/vector-fTS.png',
                             width: 18*fem,
                             height: 18*fem,
                           ),
@@ -241,14 +240,14 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // autogroupuq6sxjo (PW9VoBt4k9mppG1rKuuq6s)
+              // autogroup5u6gdmE (RzCyDiYHRrTZueGiDB5U6G)
               margin: EdgeInsets.fromLTRB(5*fem, 0*fem, 0*fem, 21*fem),
               width: 407*fem,
               height: 163*fem,
               child: Stack(
                 children: [
                   Positioned(
-                    // emailHn5 (57:74)
+                    // emailkqr (57:74)
                     left: 0*fem,
                     top: 0*fem,
                     child: Container(
@@ -258,7 +257,7 @@ class Scene extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Container(
-                            // emaild5F (21:82)
+                            // emailgjW (21:82)
                             margin: EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 6*fem),
                             child: Text(
                               'Email:',
@@ -272,7 +271,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Container(
-                            // emailtextfieldM1F (21:78)
+                            // emailtextfieldPdv (21:78)
                             padding: EdgeInsets.fromLTRB(20*fem, 10*fem, 17*fem, 11*fem),
                             width: double.infinity,
                             decoration: BoxDecoration (
@@ -283,7 +282,7 @@ class Scene extends StatelessWidget {
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: [
                                 Container(
-                                  // aliceevegmailcomTKB (21:80)
+                                  // aliceevegmailcomK1n (21:80)
                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 125*fem, 0*fem),
                                   child: Text(
                                     'alice.eve@gmail.com',
@@ -297,12 +296,12 @@ class Scene extends StatelessWidget {
                                   ),
                                 ),
                                 Container(
-                                  // vectory2d (21:81)
+                                  // vectorRqW (21:81)
                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 2*fem),
                                   width: 18*fem,
                                   height: 18*fem,
                                   child: Image.asset(
-                                    'assets/page-1/images/vector-rGV.png',
+                                    'assets/page-1/images/vector-vm2.png',
                                     width: 18*fem,
                                     height: 18*fem,
                                   ),
@@ -315,7 +314,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    // phoneVFs (57:73)
+                    // phoneYfE (57:73)
                     left: 0*fem,
                     top: 92*fem,
                     child: Container(
@@ -325,7 +324,7 @@ class Scene extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Container(
-                            // phoneRQR (21:87)
+                            // phoneUon (21:87)
                             margin: EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 6*fem),
                             child: Text(
                               'Phone:',
@@ -339,7 +338,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Container(
-                            // phonetextfieldkSh (21:83)
+                            // phonetextfieldCDz (21:83)
                             padding: EdgeInsets.fromLTRB(20*fem, 10*fem, 17*fem, 11*fem),
                             width: double.infinity,
                             decoration: BoxDecoration (
@@ -350,7 +349,7 @@ class Scene extends StatelessWidget {
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: [
                                 Container(
-                                  // sXK (21:85)
+                                  // v9z (21:85)
                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 171*fem, 0*fem),
                                   child: Text(
                                     '+1 561-230-0033',
@@ -364,12 +363,12 @@ class Scene extends StatelessWidget {
                                   ),
                                 ),
                                 Container(
-                                  // vectorneH (21:86)
+                                  // vectorqGx (21:86)
                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 2*fem),
                                   width: 18*fem,
                                   height: 18*fem,
                                   child: Image.asset(
-                                    'assets/page-1/images/vector-1d7.png',
+                                    'assets/page-1/images/vector-Hj2.png',
                                     width: 18*fem,
                                     height: 18*fem,
                                   ),
@@ -382,16 +381,22 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    // image11uU1 (305:95)
+                    // image11Mm6 (305:95)
                     left: 239*fem,
                     top: 32*fem,
                     child: Align(
                       child: SizedBox(
                         width: 168*fem,
                         height: 119*fem,
-                        child: Image.asset(
-                          'assets/page-1/images/image-11-rJq.png',
-                          fit: BoxFit.cover,
+                        child: TextButton(
+                          onPressed: () {},
+                          style: TextButton.styleFrom (
+                            padding: EdgeInsets.zero,
+                          ),
+                          child: Image.asset(
+                            'assets/page-1/images/image-11.png',
+                            fit: BoxFit.cover,
+                          ),
                         ),
                       ),
                     ),
@@ -400,14 +405,14 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // addressctD (57:72)
+              // addressT3S (57:72)
               margin: EdgeInsets.fromLTRB(5*fem, 0*fem, 0*fem, 32*fem),
               width: 349*fem,
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Container(
-                    // addresskjX (55:21)
+                    // addressadr (55:21)
                     margin: EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 6*fem),
                     child: Text(
                       'Address:',
@@ -421,7 +426,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // addresstextfieldgNH (55:17)
+                    // addresstextfieldug8 (55:17)
                     padding: EdgeInsets.fromLTRB(20*fem, 18*fem, 17*fem, 17*fem),
                     width: double.infinity,
                     decoration: BoxDecoration (
@@ -449,11 +454,11 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // vectorSVs (55:20)
+                          // vector6Ep (55:20)
                           width: 18*fem,
                           height: 18*fem,
                           child: Image.asset(
-                            'assets/page-1/images/vector-p37.png',
+                            'assets/page-1/images/vector-gUL.png',
                             width: 18*fem,
                             height: 18*fem,
                           ),
@@ -465,7 +470,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // settingsbtnNeR (57:13)
+              // settingsbtndVe (57:13)
               margin: EdgeInsets.fromLTRB(5*fem, 0*fem, 217*fem, 0*fem),
               padding: EdgeInsets.fromLTRB(36*fem, 11*fem, 31*fem, 11*fem),
               width: double.infinity,
@@ -477,18 +482,18 @@ class Scene extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // vectorTvm (57:20)
+                    // vectorj2t (57:20)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 8*fem, 0*fem),
                     width: 22*fem,
                     height: 22*fem,
                     child: Image.asset(
-                      'assets/page-1/images/vector-smf.png',
+                      'assets/page-1/images/vector-1Xz.png',
                       width: 22*fem,
                       height: 22*fem,
                     ),
                   ),
                   Text(
-                    // settingsCms (57:15)
+                    // settingsrNQ (57:15)
                     'Settings',
                     style: SafeGoogleFont (
                       'Fira Sans',

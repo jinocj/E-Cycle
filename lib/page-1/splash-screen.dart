@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: TextButton(
-        // splashscreenhXT (3:64)
+        // splashscreenk3W (3:64)
         onPressed: () {},
         style: TextButton.styleFrom (
           padding: EdgeInsets.zero,
@@ -32,7 +32,7 @@ class Scene extends StatelessWidget {
           child: Stack(
             children: [
               Positioned(
-                // logocircleMc1 (3:65)
+                // logocircleYEG (3:65)
                 left: 141*fem,
                 top: 378*fem,
                 child: Align(
@@ -49,7 +49,7 @@ class Scene extends StatelessWidget {
                 ),
               ),
               Positioned(
-                // ecycle4FX (3:66)
+                // ecyclezMA (3:66)
                 left: 156*fem,
                 top: 424*fem,
                 child: Align(

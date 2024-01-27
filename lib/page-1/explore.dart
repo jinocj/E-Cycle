@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // exploreU13 (28:236)
+        // explore2Ap (28:236)
         width: double.infinity,
         height: 896*fem,
         decoration: BoxDecoration (
@@ -22,7 +22,7 @@ class Scene extends StatelessWidget {
         child: Stack(
           children: [
             Positioned(
-              // contentsPth (39:90)
+              // contentsksW (39:90)
               left: 18*fem,
               top: 268*fem,
               child: Container(
@@ -32,7 +32,7 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // post1uc9 (57:100)
+                      // post1UHi (57:100)
                       padding: EdgeInsets.fromLTRB(0*fem, 10*fem, 0*fem, 15*fem),
                       width: double.infinity,
                       decoration: BoxDecoration (
@@ -42,7 +42,7 @@ class Scene extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.center,
                         children: [
                           Container(
-                            // autogroupwkpsRaV (PW9Sg2avY5g5LK2jRTwkps)
+                            // autogroup4lb6bdE (RzCuryoRxz5YiQCuq34Lb6)
                             margin: EdgeInsets.fromLTRB(10*fem, 0*fem, 20*fem, 10*fem),
                             width: double.infinity,
                             height: 38*fem,
@@ -50,7 +50,7 @@ class Scene extends StatelessWidget {
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: [
                                 Container(
-                                  // ellipse359mP (39:63)
+                                  // ellipse35utp (39:63)
                                   width: 38*fem,
                                   height: 38*fem,
                                   decoration: BoxDecoration (
@@ -65,21 +65,21 @@ class Scene extends StatelessWidget {
                                   ),
                                 ),
                                 Container(
-                                  // autogroupze9zTn5 (PW9SrrcDRjepTyv9SCZe9Z)
+                                  // autogrouphojaDuW (RzCv5PcRFMkG7v42P7Hoja)
                                   padding: EdgeInsets.fromLTRB(8*fem, 5*fem, 0*fem, 0*fem),
                                   height: double.infinity,
                                   child: Row(
                                     crossAxisAlignment: CrossAxisAlignment.center,
                                     children: [
                                       Container(
-                                        // autogroupitgbzn1 (PW9Sn7F8FaaueT33pBitgB)
+                                        // autogrouprtvcYwn (RzCuytmaX59CxffVTCRTvc)
                                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 221*fem, 0*fem),
                                         width: 80*fem,
                                         height: double.infinity,
                                         child: Stack(
                                           children: [
                                             Positioned(
-                                              // eldoradovff (39:66)
+                                              // eldoradogYC (39:66)
                                               left: 0*fem,
                                               top: 17*fem,
                                               child: Align(
@@ -100,7 +100,7 @@ class Scene extends StatelessWidget {
                                               ),
                                             ),
                                             Positioned(
-                                              // cliffhangerzfX (39:72)
+                                              // cliffhanger9wa (39:72)
                                               left: 0*fem,
                                               top: 0*fem,
                                               child: Align(
@@ -130,7 +130,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Container(
-                            // autogroupzwetsUR (PW9T26qovfwbKoqrubZweT)
+                            // autogroupyjglqpQ (RzCvEtLbbft5kypDd8yJgL)
                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 16*fem),
                             padding: EdgeInsets.fromLTRB(330.07*fem, 251.96*fem, 10.45*fem, 9.56*fem),
                             width: double.infinity,
@@ -144,13 +144,13 @@ class Scene extends StatelessWidget {
                               ),
                             ),
                             child: Align(
-                              // saveitemZMF (39:81)
+                              // saveitem8Yc (39:81)
                               alignment: Alignment.bottomRight,
                               child: SizedBox(
                                 width: 36.48*fem,
                                 height: 36.48*fem,
                                 child: Image.asset(
-                                  'assets/page-1/images/save-item-FKK.png',
+                                  'assets/page-1/images/save-item-nBe.png',
                                   width: 36.48*fem,
                                   height: 36.48*fem,
                                 ),
@@ -158,7 +158,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Container(
-                            // autogrouphtpbgAy (PW9T6gYWXun8xWqJgXHtpb)
+                            // autogroupug7nemr (RzCvK3tKnceDRd5XnLuG7N)
                             margin: EdgeInsets.fromLTRB(18*fem, 0*fem, 18*fem, 0*fem),
                             width: double.infinity,
                             height: 44*fem,
@@ -166,14 +166,14 @@ class Scene extends StatelessWidget {
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: [
                                 Container(
-                                  // autogroupve35zxM (PW9TBr4a8MvTk7SXvFve35)
+                                  // autogroupk1akyZE (RzCvPoFQxmi8F9xdQMk1ak)
                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 29*fem, 0*fem),
                                   width: 217*fem,
                                   height: double.infinity,
                                   child: Stack(
                                     children: [
                                       Positioned(
-                                        // makecordobayear2020w6u (39:69)
+                                        // makecordobayear2020uhn (39:69)
                                         left: 0*fem,
                                         top: 27*fem,
                                         child: Align(
@@ -194,7 +194,7 @@ class Scene extends StatelessWidget {
                                         ),
                                       ),
                                       Positioned(
-                                        // cordobaminiguitarD4R (39:75)
+                                        // cordobaminiguitar1F2 (39:75)
                                         left: 0*fem,
                                         top: 0*fem,
                                         child: Align(
@@ -218,7 +218,7 @@ class Scene extends StatelessWidget {
                                   ),
                                 ),
                                 Container(
-                                  // JLm (39:78)
+                                  // WBn (39:78)
                                   margin: EdgeInsets.fromLTRB(0*fem, 3*fem, 0*fem, 0*fem),
                                   child: Text(
                                     '₹ 25,000',
@@ -242,7 +242,7 @@ class Scene extends StatelessWidget {
                       height: 15*fem,
                     ),
                     Container(
-                      // post2Q8u (57:101)
+                      // post2bj2 (57:101)
                       padding: EdgeInsets.fromLTRB(0*fem, 13*fem, 0*fem, 14*fem),
                       width: double.infinity,
                       height: 433*fem,
@@ -253,14 +253,14 @@ class Scene extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.center,
                         children: [
                           Container(
-                            // autogroupjnnpWhj (PW9TdFVugKZfi2kYVDJNNP)
+                            // autogroupz5j2JtL (RzCvvhXbF1xPNKfAuDz5j2)
                             margin: EdgeInsets.fromLTRB(10*fem, 0*fem, 20*fem, 10*fem),
                             width: double.infinity,
                             child: Row(
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: [
                                 Container(
-                                  // ellipse362vy (39:64)
+                                  // ellipse36F2t (39:64)
                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 8*fem, 1*fem),
                                   width: 38*fem,
                                   height: 35*fem,
@@ -271,14 +271,14 @@ class Scene extends StatelessWidget {
                                   ),
                                 ),
                                 Container(
-                                  // autogroupqjmq9kh (PW9Tj5fXYSdTEvvP7JQJmq)
+                                  // autogroupmdalZJU (RzCw2nBnxWsDgTfVHwmDaL)
                                   margin: EdgeInsets.fromLTRB(0*fem, 3*fem, 207*fem, 0*fem),
                                   width: 94*fem,
                                   height: 33*fem,
                                   child: Stack(
                                     children: [
                                       Positioned(
-                                        // shangrilagVj (39:67)
+                                        // shangrilaHkG (39:67)
                                         left: 0*fem,
                                         top: 17*fem,
                                         child: Align(
@@ -299,7 +299,7 @@ class Scene extends StatelessWidget {
                                         ),
                                       ),
                                       Positioned(
-                                        // franknsteinnYm (39:73)
+                                        // franknsteinoic (39:73)
                                         left: 0*fem,
                                         top: 0*fem,
                                         child: Align(
@@ -326,7 +326,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Container(
-                            // autogroupgeao5nm (PW9TpaWNGjEWQBJv3DGeao)
+                            // autogroup1yccWN8 (RzCw9XVYwghWjuER521Ycc)
                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 14*fem),
                             padding: EdgeInsets.fromLTRB(330.07*fem, 251.83*fem, 10.45*fem, 11.69*fem),
                             width: double.infinity,
@@ -341,13 +341,13 @@ class Scene extends StatelessWidget {
                               ),
                             ),
                             child: Align(
-                              // saveitemyNM (39:84)
+                              // saveitemQCc (39:84)
                               alignment: Alignment.bottomRight,
                               child: SizedBox(
                                 width: 36.48*fem,
                                 height: 36.48*fem,
                                 child: Image.asset(
-                                  'assets/page-1/images/save-item-cSq.png',
+                                  'assets/page-1/images/save-item-WSp.png',
                                   width: 36.48*fem,
                                   height: 36.48*fem,
                                 ),
@@ -355,7 +355,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Container(
-                            // autogroupy1rmgnZ (PW9TtQjKKqXuhAnvWEy1RM)
+                            // autogroup4jltK4g (RzCwDrhfhYh1bNPP5K4JLt)
                             margin: EdgeInsets.fromLTRB(18*fem, 0*fem, 18*fem, 0*fem),
                             width: double.infinity,
                             height: 46*fem,
@@ -363,14 +363,14 @@ class Scene extends StatelessWidget {
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: [
                                 Container(
-                                  // autogroup8zsso6V (PW9TxubpeckmjTqYMd8ZSs)
+                                  // autogroupafg8dr4 (RzCwJrZLj5byC96xTxaFG8)
                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 89*fem, 0*fem),
                                   height: double.infinity,
                                   child: Column(
                                     crossAxisAlignment: CrossAxisAlignment.start,
                                     children: [
                                       Text(
-                                        // iphone12minivB7 (39:76)
+                                        // iphone12miniy9E (39:76)
                                         'iPhone 12 Mini',
                                         style: SafeGoogleFont (
                                           'Fira Sans',
@@ -381,7 +381,7 @@ class Scene extends StatelessWidget {
                                         ),
                                       ),
                                       Text(
-                                        // makeappleyear2020rqT (39:70)
+                                        // makeappleyear2020iMi (39:70)
                                         'Make: Apple | Year: 2020',
                                         style: SafeGoogleFont (
                                           'Fira Sans',
@@ -395,7 +395,7 @@ class Scene extends StatelessWidget {
                                   ),
                                 ),
                                 Container(
-                                  // PqP (39:79)
+                                  // 3et (39:79)
                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 1*fem),
                                   child: Text(
                                     '₹ 53,000',
@@ -419,7 +419,7 @@ class Scene extends StatelessWidget {
                       height: 15*fem,
                     ),
                     Container(
-                      // post3Hfs (57:102)
+                      // post3Z7S (57:102)
                       padding: EdgeInsets.fromLTRB(0*fem, 11*fem, 0*fem, 14*fem),
                       width: double.infinity,
                       height: 431*fem,
@@ -430,14 +430,14 @@ class Scene extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.center,
                         children: [
                           Container(
-                            // autogroupd65rCXw (PW9UQUhYmVdLtD3Cmfd65R)
+                            // autogroupbabvsP2 (RzCwkbKTQshuXiCGj6BaBv)
                             margin: EdgeInsets.fromLTRB(10*fem, 0*fem, 20*fem, 10*fem),
                             width: double.infinity,
                             child: Row(
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: [
                                 Container(
-                                  // ellipse37j25 (39:65)
+                                  // ellipse37ziY (39:65)
                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 8*fem, 1*fem),
                                   width: 38*fem,
                                   height: 36*fem,
@@ -448,14 +448,14 @@ class Scene extends StatelessWidget {
                                   ),
                                 ),
                                 Container(
-                                  // autogroupqdvjEzR (PW9UWZMkUzYBCM3XAPQDvj)
+                                  // autogroupvwrgieY (RzCwr1L6rhhH6YdyjTVWrG)
                                   margin: EdgeInsets.fromLTRB(0*fem, 4*fem, 238*fem, 0*fem),
                                   width: 63*fem,
                                   height: 33*fem,
                                   child: Stack(
                                     children: [
                                       Positioned(
-                                        // arcadiaa2h (39:68)
+                                        // arcadiaT6L (39:68)
                                         left: 0*fem,
                                         top: 17*fem,
                                         child: Align(
@@ -476,7 +476,7 @@ class Scene extends StatelessWidget {
                                         ),
                                       ),
                                       Positioned(
-                                        // billyerdsgLd (39:74)
+                                        // billyerdskr8 (39:74)
                                         left: 0*fem,
                                         top: 0*fem,
                                         child: Align(
@@ -503,7 +503,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Container(
-                            // autogroupwmbzawo (PW9UcJhB4ezH8qGXrvwmBZ)
+                            // autogroupmrfeGJg (RzCwwWAwazJLFo2WfNMrfE)
                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 15*fem),
                             padding: EdgeInsets.fromLTRB(330.07*fem, 251.71*fem, 10.45*fem, 10.81*fem),
                             width: double.infinity,
@@ -518,13 +518,13 @@ class Scene extends StatelessWidget {
                               ),
                             ),
                             child: Align(
-                              // saveitemHLR (39:87)
+                              // saveitemkUk (39:87)
                               alignment: Alignment.bottomRight,
                               child: SizedBox(
                                 width: 36.48*fem,
                                 height: 36.48*fem,
                                 child: Image.asset(
-                                  'assets/page-1/images/save-item-DpR.png',
+                                  'assets/page-1/images/save-item-TQG.png',
                                   width: 36.48*fem,
                                   height: 36.48*fem,
                                 ),
@@ -532,7 +532,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Container(
-                            // autogroups7mdCyB (PW9UgZ56Y4N6PtUfwgS7mD)
+                            // autogroupb1o2Ufe (RzCx1W4HD1q6jcQAyVB1o2)
                             margin: EdgeInsets.fromLTRB(18*fem, 0*fem, 18*fem, 0*fem),
                             width: double.infinity,
                             height: 45*fem,
@@ -540,14 +540,14 @@ class Scene extends StatelessWidget {
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: [
                                 Container(
-                                  // autogroupn5cfveH (PW9Ukicpj18E4Xjz6tN5CF)
+                                  // autogroupgxigQJQ (RzCx6VuxEYk4LP7kN8gxiG)
                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 93*fem, 0*fem),
                                   width: 154*fem,
                                   height: double.infinity,
                                   child: Stack(
                                     children: [
                                       Positioned(
-                                        // makeappleyear2020fLy (39:71)
+                                        // makeappleyear2020wZE (39:71)
                                         left: 0*fem,
                                         top: 28*fem,
                                         child: Align(
@@ -568,7 +568,7 @@ class Scene extends StatelessWidget {
                                         ),
                                       ),
                                       Positioned(
-                                        // applewatch3ZSM (39:77)
+                                        // applewatch33MN (39:77)
                                         left: 0*fem,
                                         top: 0*fem,
                                         child: Align(
@@ -592,7 +592,7 @@ class Scene extends StatelessWidget {
                                   ),
                                 ),
                                 Text(
-                                  // Fpy (39:80)
+                                  // 9QQ (39:80)
                                   '₹ 19,000',
                                   textAlign: TextAlign.right,
                                   style: SafeGoogleFont (
@@ -614,7 +614,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // categorybarbdw (33:6)
+              // categorybart76 (33:6)
               left: 18*fem,
               top: 211*fem,
               child: Container(
@@ -622,14 +622,14 @@ class Scene extends StatelessWidget {
                 width: 377*fem,
                 height: 42*fem,
                 child: Container(
-                  // catbuttonsKK3 (33:39)
+                  // catbuttonsCtU (33:39)
                   width: 620*fem,
                   height: double.infinity,
                   child: Row(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Container(
-                        // categorybuttonecD (33:9)
+                        // categorybutton81S (33:9)
                         padding: EdgeInsets.fromLTRB(16.5*fem, 0*fem, 17.5*fem, 0*fem),
                         height: 30*fem,
                         decoration: BoxDecoration (
@@ -652,7 +652,7 @@ class Scene extends StatelessWidget {
                         width: 10*fem,
                       ),
                       Container(
-                        // categorybuttonh4h (33:10)
+                        // categorybutton9hE (33:10)
                         padding: EdgeInsets.fromLTRB(33.5*fem, 0*fem, 34.5*fem, 0*fem),
                         height: 30*fem,
                         decoration: BoxDecoration (
@@ -675,7 +675,7 @@ class Scene extends StatelessWidget {
                         width: 10*fem,
                       ),
                       Container(
-                        // categorybuttonMuw (33:27)
+                        // categorybuttonRPr (33:27)
                         margin: EdgeInsets.fromLTRB(0*fem, 1*fem, 0*fem, 0*fem),
                         padding: EdgeInsets.fromLTRB(25*fem, 0*fem, 26*fem, 0*fem),
                         height: 30*fem,
@@ -699,7 +699,7 @@ class Scene extends StatelessWidget {
                         width: 10*fem,
                       ),
                       Container(
-                        // categorybutton1jb (33:30)
+                        // categorybuttonfoz (33:30)
                         padding: EdgeInsets.fromLTRB(13*fem, 0*fem, 14*fem, 0*fem),
                         width: 95*fem,
                         height: 30*fem,
@@ -723,7 +723,7 @@ class Scene extends StatelessWidget {
                         width: 10*fem,
                       ),
                       Container(
-                        // categorybutton5UZ (33:33)
+                        // categorybuttonuiL (33:33)
                         padding: EdgeInsets.fromLTRB(7.5*fem, 0*fem, 8.5*fem, 0*fem),
                         width: 95*fem,
                         height: 30*fem,
@@ -747,7 +747,7 @@ class Scene extends StatelessWidget {
                         width: 10*fem,
                       ),
                       Container(
-                        // categorybuttonKNu (33:36)
+                        // categorybuttonxRi (33:36)
                         padding: EdgeInsets.fromLTRB(18.5*fem, 0*fem, 19.5*fem, 0*fem),
                         width: 95*fem,
                         height: 30*fem,
@@ -773,13 +773,13 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // searchbarPtZ (28:245)
-              left: 18*fem,
-              top: 142*fem,
+              // searchbarcWG (28:245)
+              left: 17*fem,
+              top: 168*fem,
               child: Container(
-                padding: EdgeInsets.fromLTRB(21*fem, 15*fem, 24.15*fem, 17*fem),
+                padding: EdgeInsets.fromLTRB(6*fem, 1*fem, 15.79*fem, 1*fem),
                 width: 377*fem,
-                height: 57*fem,
+                height: 43*fem,
                 decoration: BoxDecoration (
                   color: Color(0xffdedede),
                   borderRadius: BorderRadius.circular(22*fem),
@@ -788,10 +788,10 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // searchforbooksguitarandmoreg6y (28:251)
-                      margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 10.94*fem, 0*fem),
+                      // searchformobileslaptopandmoreW (28:251)
+                      margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 13.31*fem, 16*fem),
                       child: Text(
-                        'Search for books, guitar and more...',
+                        'Search for mobiles, laptop and more...',
                         style: SafeGoogleFont (
                           'Adamina',
                           fontSize: 18*ffem,
@@ -802,8 +802,8 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Container(
-                      // searchy65 (28:247)
-                      margin: EdgeInsets.fromLTRB(0*fem, 1*fem, 0*fem, 0*fem),
+                      // searchCzG (28:247)
+                      margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 1*fem),
                       width: 18.9*fem,
                       height: 18*fem,
                       child: Image.asset(
@@ -817,7 +817,49 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // autogrouphyfhHMf (PW9SKCrHbMsR16iAdSHyfh)
+              // searchbarKoz (380:20)
+              left: 18*fem,
+              top: 128*fem,
+              child: Container(
+                padding: EdgeInsets.fromLTRB(12*fem, 0*fem, 14*fem, 0*fem),
+                width: 377*fem,
+                height: 27*fem,
+                decoration: BoxDecoration (
+                  color: Color(0xffdedede),
+                  borderRadius: BorderRadius.circular(22*fem),
+                ),
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Container(
+                      // locationRME (380:27)
+                      margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 245*fem, 0*fem),
+                      child: Text(
+                        'Location ',
+                        style: SafeGoogleFont (
+                          'Adamina',
+                          fontSize: 18*ffem,
+                          fontWeight: FontWeight.w400,
+                          height: 1.3625*ffem/fem,
+                          color: Color(0xff818181),
+                        ),
+                      ),
+                    ),
+                    Container(
+                      // image13jsi (380:31)
+                      width: 25*fem,
+                      height: 22*fem,
+                      child: Image.asset(
+                        'assets/page-1/images/image-13.png',
+                        fit: BoxFit.cover,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+            Positioned(
+              // autogroupfkmzV6C (RzCuXEsKiEGm6ZB635fkMz)
               left: 35*fem,
               top: 64*fem,
               child: Container(
@@ -827,7 +869,7 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // backbuttonCDj (28:428)
+                      // backbuttonDXz (28:428)
                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 21*fem, 0*fem),
                       child: TextButton(
                         onPressed: () {},
@@ -838,7 +880,7 @@ class Scene extends StatelessWidget {
                           width: 46*fem,
                           height: 46*fem,
                           child: Image.asset(
-                            'assets/page-1/images/back-button-rnZ.png',
+                            'assets/page-1/images/back-button-D6c.png',
                             width: 46*fem,
                             height: 46*fem,
                           ),
@@ -846,7 +888,7 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Container(
-                      // exploreUh3 (28:431)
+                      // exploreXYg (28:431)
                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 141*fem, 1*fem),
                       child: Text(
                         'Explore',
@@ -860,7 +902,7 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Container(
-                      // hamburgeroDX (28:240)
+                      // hamburgerTSL (28:240)
                       margin: EdgeInsets.fromLTRB(0*fem, 9*fem, 0*fem, 0*fem),
                       child: TextButton(
                         onPressed: () {},
@@ -871,7 +913,7 @@ class Scene extends StatelessWidget {
                           width: 33*fem,
                           height: 33*fem,
                           child: Image.asset(
-                            'assets/page-1/images/hamburger-bmP.png',
+                            'assets/page-1/images/hamburger-uCG.png',
                             width: 33*fem,
                             height: 33*fem,
                           ),
@@ -883,7 +925,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // navbar6TX (33:2)
+              // navbarN3W (33:2)
               left: 15*fem,
               top: 822*fem,
               child: Align(
@@ -891,7 +933,7 @@ class Scene extends StatelessWidget {
                   width: 384*fem,
                   height: 54*fem,
                   child: Image.asset(
-                    'assets/page-1/images/navbar-qLH.png',
+                    'assets/page-1/images/navbar-hJC.png',
                     width: 384*fem,
                     height: 54*fem,
                   ),

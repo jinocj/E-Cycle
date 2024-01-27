@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // signupgpd (14:0)
+        // signuppBv (14:0)
         padding: EdgeInsets.fromLTRB(35*fem, 64*fem, 35*fem, 103*fem),
         width: double.infinity,
         decoration: BoxDecoration (
@@ -24,14 +24,14 @@ class Scene extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Container(
-              // autogroupwwnfz4d (PW9XHK5EAdugK9SCtXWWnf)
+              // autogroupfiknVJ4 (RzCzmWJ1LXfTWhHRPjFiKN)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 1*fem, 57*fem),
               width: double.infinity,
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Container(
-                    // backbuttonhUq (14:3)
+                    // backbuttonDUx (14:3)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 194*fem, 0*fem),
                     child: TextButton(
                       onPressed: () {},
@@ -42,7 +42,7 @@ class Scene extends StatelessWidget {
                         width: 46*fem,
                         height: 46*fem,
                         child: Image.asset(
-                          'assets/page-1/images/back-button-2yT.png',
+                          'assets/page-1/images/back-button-Hac.png',
                           width: 46*fem,
                           height: 46*fem,
                         ),
@@ -50,7 +50,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    // ecycleaYd (14:2)
+                    // ecycleWU4 (14:2)
                     'E-Cycle',
                     textAlign: TextAlign.center,
                     style: SafeGoogleFont (
@@ -65,7 +65,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // signupuL1 (14:6)
+              // signupScc (14:6)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 197*fem, 30*fem),
               child: Text(
                 'Sign up',
@@ -93,7 +93,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // socialloginvF7 (14:19)
+              // socialloginGLk (14:19)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 45*fem),
               child: TextButton(
                 onPressed: () {},
@@ -104,7 +104,7 @@ class Scene extends StatelessWidget {
                   width: 344*fem,
                   height: 57*fem,
                   child: Image.asset(
-                    'assets/page-1/images/social-login-5id.png',
+                    'assets/page-1/images/social-login.png',
                     width: 344*fem,
                     height: 57*fem,
                   ),
@@ -112,14 +112,14 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // orQAH (14:14)
-              margin: EdgeInsets.fromLTRB(10*fem, 0*fem, 10*fem, 42*fem),
+              // orYZA (14:14)
+              margin: EdgeInsets.fromLTRB(10*fem, 0*fem, 10*fem, 16*fem),
               width: double.infinity,
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // line28MB (14:16)
+                    // line2UBv (14:16)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 4*fem, 2*fem),
                     width: 150*fem,
                     height: 1*fem,
@@ -128,7 +128,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // orT8Z (14:17)
+                    // orzg4 (14:17)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 3*fem, 0*fem),
                     child: Text(
                       'Or',
@@ -143,7 +143,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // line1NmK (14:15)
+                    // line1XAC (14:15)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 2*fem),
                     width: 150*fem,
                     height: 1*fem,
@@ -155,7 +155,94 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // loginformW6q (14:7)
+              // group79fGQ (I424:167;424:153)
+              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 31*fem),
+              width: double.infinity,
+              height: 57*fem,
+              decoration: BoxDecoration (
+                borderRadius: BorderRadius.circular(22*fem),
+              ),
+              child: Container(
+                // group80bvk (I424:167;424:154)
+                padding: EdgeInsets.fromLTRB(44*fem, 16*fem, 44*fem, 16*fem),
+                width: double.infinity,
+                height: double.infinity,
+                decoration: BoxDecoration (
+                  color: Color(0xffdedede),
+                  borderRadius: BorderRadius.circular(22*fem),
+                ),
+                child: Text(
+                  'Name',
+                  style: SafeGoogleFont (
+                    'Adamina',
+                    fontSize: 18*ffem,
+                    fontWeight: FontWeight.w400,
+                    height: 1.3625*ffem/fem,
+                    color: Color(0xff606060),
+                  ),
+                ),
+              ),
+            ),
+            Container(
+              // group795b2 (I424:141;426:18)
+              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 31*fem),
+              width: double.infinity,
+              height: 57*fem,
+              decoration: BoxDecoration (
+                borderRadius: BorderRadius.circular(22*fem),
+              ),
+              child: Container(
+                // group80pHi (I424:141;426:19)
+                padding: EdgeInsets.fromLTRB(44*fem, 16*fem, 44*fem, 16*fem),
+                width: double.infinity,
+                height: double.infinity,
+                decoration: BoxDecoration (
+                  color: Color(0xffdedede),
+                  borderRadius: BorderRadius.circular(22*fem),
+                ),
+                child: Text(
+                  'Email',
+                  style: SafeGoogleFont (
+                    'Adamina',
+                    fontSize: 18*ffem,
+                    fontWeight: FontWeight.w400,
+                    height: 1.3625*ffem/fem,
+                    color: Color(0xff606060),
+                  ),
+                ),
+              ),
+            ),
+            Container(
+              // group79Hwz (I424:146;424:101)
+              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 18*fem),
+              width: double.infinity,
+              height: 57*fem,
+              decoration: BoxDecoration (
+                borderRadius: BorderRadius.circular(22*fem),
+              ),
+              child: Container(
+                // group80EMS (I424:146;424:102)
+                padding: EdgeInsets.fromLTRB(44*fem, 16*fem, 44*fem, 16*fem),
+                width: double.infinity,
+                height: double.infinity,
+                decoration: BoxDecoration (
+                  color: Color(0xffdedede),
+                  borderRadius: BorderRadius.circular(22*fem),
+                ),
+                child: Text(
+                  'Password',
+                  style: SafeGoogleFont (
+                    'Adamina',
+                    fontSize: 18*ffem,
+                    fontWeight: FontWeight.w400,
+                    height: 1.3625*ffem/fem,
+                    color: Color(0xff606060),
+                  ),
+                ),
+              ),
+            ),
+            Container(
+              // loginform8Bv (14:7)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 32*fem),
               child: TextButton(
                 onPressed: () {},
@@ -164,112 +251,34 @@ class Scene extends StatelessWidget {
                 ),
                 child: Container(
                   width: double.infinity,
+                  height: 56*fem,
                   decoration: BoxDecoration (
                     borderRadius: BorderRadius.circular(22*fem),
+                    gradient: LinearGradient (
+                      begin: Alignment(-0.424, -1.536),
+                      end: Alignment(0.302, 2.25),
+                      colors: <Color>[Color(0xffff5a5f), Color(0xffc1839f)],
+                      stops: <double>[0, 1],
+                    ),
                   ),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.center,
-                    children: [
-                      Container(
-                        // autogroupun4bobj (PW9XXULJQeVjBL8fq2UN4B)
-                        padding: EdgeInsets.fromLTRB(27*fem, 15*fem, 27*fem, 17*fem),
-                        width: double.infinity,
-                        decoration: BoxDecoration (
-                          color: Color(0xffdedede),
-                          borderRadius: BorderRadius.circular(22*fem),
-                        ),
-                        child: Text(
-                          'Name',
-                          style: SafeGoogleFont (
-                            'Adamina',
-                            fontSize: 18*ffem,
-                            fontWeight: FontWeight.w400,
-                            height: 1.3625*ffem/fem,
-                            color: Color(0xff6e6e6e),
-                          ),
-                        ),
+                  child: Center(
+                    child: Text(
+                      'Create account',
+                      textAlign: TextAlign.center,
+                      style: SafeGoogleFont (
+                        'Adamina',
+                        fontSize: 24*ffem,
+                        fontWeight: FontWeight.w400,
+                        height: 1.3625*ffem/fem,
+                        color: Color(0xfff5f5f5),
                       ),
-                      SizedBox(
-                        height: 18*fem,
-                      ),
-                      Container(
-                        // autogroupj83mFyX (PW9XbPPSkDQp4jZWDbj83M)
-                        padding: EdgeInsets.fromLTRB(26*fem, 15*fem, 26*fem, 17*fem),
-                        width: double.infinity,
-                        decoration: BoxDecoration (
-                          color: Color(0xffdedede),
-                          borderRadius: BorderRadius.circular(22*fem),
-                        ),
-                        child: Text(
-                          'Email',
-                          style: SafeGoogleFont (
-                            'Adamina',
-                            fontSize: 18*ffem,
-                            fontWeight: FontWeight.w400,
-                            height: 1.3625*ffem/fem,
-                            color: Color(0xff6e6e6e),
-                          ),
-                        ),
-                      ),
-                      SizedBox(
-                        height: 18*fem,
-                      ),
-                      Container(
-                        // autogroupbthrw5f (PW9XetHcfVFUz5GCzTBtHR)
-                        padding: EdgeInsets.fromLTRB(26*fem, 15*fem, 26*fem, 17*fem),
-                        width: double.infinity,
-                        decoration: BoxDecoration (
-                          color: Color(0xffdedede),
-                          borderRadius: BorderRadius.circular(22*fem),
-                        ),
-                        child: Text(
-                          'Password',
-                          style: SafeGoogleFont (
-                            'Adamina',
-                            fontSize: 18*ffem,
-                            fontWeight: FontWeight.w400,
-                            height: 1.3625*ffem/fem,
-                            color: Color(0xff6e6e6e),
-                          ),
-                        ),
-                      ),
-                      SizedBox(
-                        height: 18*fem,
-                      ),
-                      Container(
-                        // autogroupsegbQV3 (PW9XioLm14AZsUh3P2SeGb)
-                        width: double.infinity,
-                        height: 56*fem,
-                        decoration: BoxDecoration (
-                          borderRadius: BorderRadius.circular(22*fem),
-                          gradient: LinearGradient (
-                            begin: Alignment(-0.424, -1.536),
-                            end: Alignment(0.302, 2.25),
-                            colors: <Color>[Color(0xffff5a5f), Color(0xffc1839f)],
-                            stops: <double>[0, 1],
-                          ),
-                        ),
-                        child: Center(
-                          child: Text(
-                            'Create account',
-                            textAlign: TextAlign.center,
-                            style: SafeGoogleFont (
-                              'Adamina',
-                              fontSize: 24*ffem,
-                              fontWeight: FontWeight.w400,
-                              height: 1.3625*ffem/fem,
-                              color: Color(0xfff5f5f5),
-                            ),
-                          ),
-                        ),
-                      ),
-                    ],
+                    ),
                   ),
                 ),
               ),
             ),
             Container(
-              // alreadyhaveanaccountloginePP (14:30)
+              // alreadyhaveanaccountloginjBi (14:30)
               margin: EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 0*fem),
               child: TextButton(
                 onPressed: () {},

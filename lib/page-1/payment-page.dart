@@ -7,13 +7,13 @@ import 'package:myapp/utils.dart';
 class Scene extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    double baseWidth = 414;
+    double baseWidth = 417;
     double fem = MediaQuery.of(context).size.width / baseWidth;
     double ffem = fem * 0.97;
     return Container(
       width: double.infinity,
       child: Container(
-        // paymentpagee6h (53:164)
+        // paymentpageYhA (53:164)
         padding: EdgeInsets.fromLTRB(0*fem, 64*fem, 0*fem, 0*fem),
         width: double.infinity,
         decoration: BoxDecoration (
@@ -23,14 +23,14 @@ class Scene extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Container(
-              // autogroupbn7dwrV (PW9Bii16bjQi3JpsQcBn7d)
-              margin: EdgeInsets.fromLTRB(35*fem, 0*fem, 36*fem, 39*fem),
+              // autogroup2eo63dv (RzCdncFfQFL32xjjpE2eo6)
+              margin: EdgeInsets.fromLTRB(38*fem, 0*fem, 36*fem, 39*fem),
               width: double.infinity,
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Container(
-                    // backbuttonsEM (53:165)
+                    // backbuttonNw6 (53:165)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 194*fem, 0*fem),
                     child: TextButton(
                       onPressed: () {},
@@ -41,7 +41,7 @@ class Scene extends StatelessWidget {
                         width: 46*fem,
                         height: 46*fem,
                         child: Image.asset(
-                          'assets/page-1/images/back-button-HtH.png',
+                          'assets/page-1/images/back-button-md6.png',
                           width: 46*fem,
                           height: 46*fem,
                         ),
@@ -49,7 +49,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    // ecycleYrH (53:168)
+                    // ecycleGWg (53:168)
                     'E-Cycle',
                     textAlign: TextAlign.center,
                     style: SafeGoogleFont (
@@ -64,8 +64,8 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // progressindicatortQM (53:193)
-              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 42*fem),
+              // progressindicatoroWc (53:193)
+              margin: EdgeInsets.fromLTRB(3*fem, 0*fem, 0*fem, 42*fem),
               width: 218*fem,
               height: 30*fem,
               child: Image.asset(
@@ -75,8 +75,8 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // paymentsummaryb3s (53:181)
-              margin: EdgeInsets.fromLTRB(35*fem, 0*fem, 35*fem, 28*fem),
+              // paymentsummary6Vi (53:181)
+              margin: EdgeInsets.fromLTRB(38*fem, 0*fem, 35*fem, 28*fem),
               padding: EdgeInsets.fromLTRB(19*fem, 23*fem, 23*fem, 23*fem),
               width: double.infinity,
               decoration: BoxDecoration (
@@ -87,7 +87,7 @@ class Scene extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Container(
-                    // shurepodcastmicrophoneTLy (53:208)
+                    // shurepodcastmicrophoneZu6 (53:208)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 7*fem),
                     child: Text(
                       'Shure podcast microphone',
@@ -101,7 +101,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // makeshureyear2020MhF (53:210)
+                    // makeshureyear2020gD2 (53:210)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 19*fem),
                     child: RichText(
                       text: TextSpan(
@@ -144,7 +144,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // paymentdetailsRKj (53:183)
+                    // paymentdetails6RA (53:183)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 8*fem),
                     child: Text(
                       'Payment details',
@@ -158,14 +158,14 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // productcostLSh (53:184)
+                    // productcostDVn (53:184)
                     margin: EdgeInsets.fromLTRB(12*fem, 0*fem, 0*fem, 3*fem),
                     width: double.infinity,
                     child: Row(
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // productcostrvq (53:185)
+                          // productcostMbz (53:185)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 116*fem, 0*fem),
                           child: Text(
                             'Product cost:',
@@ -179,7 +179,7 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Text(
-                          // arq (53:186)
+                          // guA (53:186)
                           '₹ 24,999',
                           textAlign: TextAlign.right,
                           style: SafeGoogleFont (
@@ -194,14 +194,14 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // shippingfee87f (53:187)
+                    // shippingfeeEfn (53:187)
                     margin: EdgeInsets.fromLTRB(12*fem, 0*fem, 0*fem, 8*fem),
                     width: double.infinity,
                     child: Row(
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // shippingfeer3f (53:189)
+                          // shippingfeexrg (53:189)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 139*fem, 0*fem),
                           child: Text(
                             'Shipping fee:',
@@ -215,7 +215,7 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Text(
-                          // mAd (53:188)
+                          // 5wJ (53:188)
                           '₹ 150',
                           textAlign: TextAlign.right,
                           style: SafeGoogleFont (
@@ -230,14 +230,14 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // totalcost6ih (53:190)
+                    // totalcost2Lk (53:190)
                     margin: EdgeInsets.fromLTRB(12*fem, 0*fem, 0*fem, 0*fem),
                     width: double.infinity,
                     child: Row(
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // totaldid (53:192)
+                          // totalmJL (53:192)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 177*fem, 0*fem),
                           child: Text(
                             'Total:',
@@ -251,7 +251,7 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Text(
-                          // Z6V (53:191)
+                          // tNx (53:191)
                           '₹ 25,149',
                           textAlign: TextAlign.right,
                           style: SafeGoogleFont (
@@ -269,8 +269,8 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // selectcard6cD (53:211)
-              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 222*fem, 7*fem),
+              // selectcardq3J (53:211)
+              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 219*fem, 7*fem),
               child: Text(
                 'Select card',
                 style: SafeGoogleFont (
@@ -283,14 +283,14 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // autogrouphix5Dwj (PW9BpYAiTrUVaCzi2hHiX5)
-              margin: EdgeInsets.fromLTRB(35*fem, 0*fem, 35*fem, 48*fem),
+              // autogrouponeq9Zn (RzCdtgus7kEsM6k4CwoneQ)
+              margin: EdgeInsets.fromLTRB(38*fem, 0*fem, 35*fem, 48*fem),
               width: double.infinity,
               height: 171*fem,
               child: Stack(
                 children: [
                   Positioned(
-                    // cardselectorkgm (53:310)
+                    // cardselectortGU (53:310)
                     left: 0*fem,
                     top: 11*fem,
                     child: Container(
@@ -300,7 +300,7 @@ class Scene extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.center,
                         children: [
                           Container(
-                            // card1Usf (53:248)
+                            // card11bz (53:248)
                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 13*fem, 0*fem),
                             width: 280*fem,
                             height: double.infinity,
@@ -316,7 +316,7 @@ class Scene extends StatelessWidget {
                             child: Stack(
                               children: [
                                 Positioned(
-                                  // creditcard8hK (53:250)
+                                  // creditcard3oa (53:250)
                                   left: 31*fem,
                                   top: 20*fem,
                                   child: Align(
@@ -337,7 +337,7 @@ class Scene extends StatelessWidget {
                                   ),
                                 ),
                                 Positioned(
-                                  // maskgroup1m7 (53:251)
+                                  // maskgroupYEY (53:251)
                                   left: 0*fem,
                                   top: 0*fem,
                                   child: Align(
@@ -345,7 +345,7 @@ class Scene extends StatelessWidget {
                                       width: 280*fem,
                                       height: 160*fem,
                                       child: Image.asset(
-                                        'assets/page-1/images/mask-group.png',
+                                        'assets/page-1/images/mask-group-BMW.png',
                                         width: 280*fem,
                                         height: 160*fem,
                                       ),
@@ -353,7 +353,7 @@ class Scene extends StatelessWidget {
                                   ),
                                 ),
                                 Positioned(
-                                  // xxxxxxxxxxxx1234KWu (53:255)
+                                  // xxxxxxxxxxxx1234Fek (53:255)
                                   left: 31*fem,
                                   top: 118*fem,
                                   child: Align(
@@ -375,7 +375,7 @@ class Scene extends StatelessWidget {
                                   ),
                                 ),
                                 Positioned(
-                                  // aliceeve18q (53:256)
+                                  // aliceevejpp (53:256)
                                   left: 31*fem,
                                   top: 96*fem,
                                   child: Align(
@@ -397,7 +397,7 @@ class Scene extends StatelessWidget {
                                   ),
                                 ),
                                 Positioned(
-                                  // UYD (53:257)
+                                  // dQQ (53:257)
                                   left: 165*fem,
                                   top: 96*fem,
                                   child: Align(
@@ -419,7 +419,7 @@ class Scene extends StatelessWidget {
                                   ),
                                 ),
                                 Positioned(
-                                  // chipNNh (53:258)
+                                  // chipXkg (53:258)
                                   left: 31*fem,
                                   top: 68*fem,
                                   child: Align(
@@ -427,7 +427,7 @@ class Scene extends StatelessWidget {
                                       width: 38*fem,
                                       height: 26*fem,
                                       child: Image.asset(
-                                        'assets/page-1/images/chip-bYZ.png',
+                                        'assets/page-1/images/chip-wwr.png',
                                         width: 38*fem,
                                         height: 26*fem,
                                       ),
@@ -438,7 +438,7 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Container(
-                            // group45Tuw (53:267)
+                            // group452xL (53:267)
                             padding: EdgeInsets.fromLTRB(31*fem, 20*fem, 31*fem, 9*fem),
                             width: 280*fem,
                             height: double.infinity,
@@ -453,7 +453,7 @@ class Scene extends StatelessWidget {
                               image: DecorationImage (
                                 fit: BoxFit.cover,
                                 image: AssetImage (
-                                  'assets/page-1/images/mask-group-t53.png',
+                                  'assets/page-1/images/mask-group-EbE.png',
                                 ),
                               ),
                             ),
@@ -461,7 +461,7 @@ class Scene extends StatelessWidget {
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Container(
-                                  // creditcard6i1 (53:269)
+                                  // creditcardeip (53:269)
                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 26*fem),
                                   child: Text(
                                     'Credit Card',
@@ -475,24 +475,24 @@ class Scene extends StatelessWidget {
                                   ),
                                 ),
                                 Container(
-                                  // chiposK (53:277)
+                                  // chipAhA (53:277)
                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 2*fem),
                                   width: 38*fem,
                                   height: 26*fem,
                                   child: Image.asset(
-                                    'assets/page-1/images/chip.png',
+                                    'assets/page-1/images/chip-cWY.png',
                                     width: 38*fem,
                                     height: 26*fem,
                                   ),
                                 ),
                                 Container(
-                                  // autogroupd851Wmj (PW9C8n9KcMCzWd1fCrd851)
+                                  // autogroupt1gggfW (RzCeBr5waGyVa9UGP2t1GG)
                                   width: 180*fem,
                                   height: 55*fem,
                                   child: Stack(
                                     children: [
                                       Positioned(
-                                        // xxxxxxxxxxxx56783Wm (53:274)
+                                        // xxxxxxxxxxxx5678Rsz (53:274)
                                         left: 0*fem,
                                         top: 22*fem,
                                         child: Align(
@@ -514,7 +514,7 @@ class Scene extends StatelessWidget {
                                         ),
                                       ),
                                       Positioned(
-                                        // aliceeve7mX (53:275)
+                                        // aliceevevJx (53:275)
                                         left: 0*fem,
                                         top: 0*fem,
                                         child: Align(
@@ -536,7 +536,7 @@ class Scene extends StatelessWidget {
                                         ),
                                       ),
                                       Positioned(
-                                        // bwb (53:276)
+                                        // oGG (53:276)
                                         left: 134*fem,
                                         top: 0*fem,
                                         child: Align(
@@ -568,7 +568,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    // selectedcardindicatoruBb (53:321)
+                    // selectedcardindicatorgqr (53:321)
                     left: 256*fem,
                     top: 0*fem,
                     child: Align(
@@ -576,7 +576,7 @@ class Scene extends StatelessWidget {
                         width: 31*fem,
                         height: 31*fem,
                         child: Image.asset(
-                          'assets/page-1/images/selected-card-indicator.png',
+                          'assets/page-1/images/selected-card-indicator-KEc.png',
                           width: 31*fem,
                           height: 31*fem,
                         ),
@@ -587,8 +587,8 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // cvventrycbo (57:69)
-              margin: EdgeInsets.fromLTRB(44*fem, 0*fem, 159*fem, 53*fem),
+              // cvventryzrY (57:69)
+              margin: EdgeInsets.fromLTRB(47*fem, 0*fem, 159*fem, 53*fem),
               width: double.infinity,
               height: 35*fem,
               decoration: BoxDecoration (
@@ -598,7 +598,7 @@ class Scene extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // entercvvjgR (53:312)
+                    // entercvvXLg (53:312)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 9*fem, 0*fem),
                     child: Text(
                       'Enter CVV:',
@@ -612,7 +612,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // cvvtextfield3BK (57:68)
+                    // cvvtextfieldSiY (57:68)
                     width: 91*fem,
                     height: double.infinity,
                     decoration: BoxDecoration (
@@ -636,28 +636,31 @@ class Scene extends StatelessWidget {
                 ],
               ),
             ),
-            TextButton(
-              // paynowbtnKPj (53:201)
-              onPressed: () {},
-              style: TextButton.styleFrom (
-                padding: EdgeInsets.zero,
-              ),
-              child: Container(
-                width: double.infinity,
-                height: 79*fem,
-                decoration: BoxDecoration (
-                  color: Color(0xffff5a5f),
+            Container(
+              // paynowbtnXjz (53:201)
+              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 3*fem, 0*fem),
+              child: TextButton(
+                onPressed: () {},
+                style: TextButton.styleFrom (
+                  padding: EdgeInsets.zero,
                 ),
-                child: Center(
-                  child: Text(
-                    'Pay now',
-                    textAlign: TextAlign.center,
-                    style: SafeGoogleFont (
-                      'Fira Sans',
-                      fontSize: 24*ffem,
-                      fontWeight: FontWeight.w800,
-                      height: 1.2*ffem/fem,
-                      color: Color(0xffebebeb),
+                child: Container(
+                  width: 414*fem,
+                  height: 79*fem,
+                  decoration: BoxDecoration (
+                    color: Color(0xffff5a5f),
+                  ),
+                  child: Center(
+                    child: Text(
+                      'Pay now',
+                      textAlign: TextAlign.center,
+                      style: SafeGoogleFont (
+                        'Fira Sans',
+                        fontSize: 24*ffem,
+                        fontWeight: FontWeight.w800,
+                        height: 1.2*ffem/fem,
+                        color: Color(0xffebebeb),
+                      ),
                     ),
                   ),
                 ),

@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // mylisting77j (45:1)
+        // mylistingvkc (45:1)
         padding: EdgeInsets.fromLTRB(15*fem, 64*fem, 15*fem, 20*fem),
         width: double.infinity,
         decoration: BoxDecoration (
@@ -23,15 +23,15 @@ class Scene extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Container(
-              // autogroupsexbDRf (PW9DZevtxwMDsQZnmFSExb)
+              // autogroupbvccF2C (RzCfdJgsv5RW5peBQEbvCC)
               margin: EdgeInsets.fromLTRB(20*fem, 0*fem, 13*fem, 32*fem),
               width: double.infinity,
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // backbuttonM25 (45:34)
-                    margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 21*fem, 0*fem),
+                    // backbuttonn28 (45:34)
+                    margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 30*fem, 0*fem),
                     child: TextButton(
                       onPressed: () {},
                       style: TextButton.styleFrom (
@@ -41,7 +41,7 @@ class Scene extends StatelessWidget {
                         width: 46*fem,
                         height: 46*fem,
                         child: Image.asset(
-                          'assets/page-1/images/back-button-aNy.png',
+                          'assets/page-1/images/back-button-EYt.png',
                           width: 46*fem,
                           height: 46*fem,
                         ),
@@ -49,8 +49,8 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // mylistingspgM (45:37)
-                    margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 88*fem, 1*fem),
+                    // mylistingsU9r (45:37)
+                    margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 79*fem, 1*fem),
                     child: Text(
                       'My Listings',
                       style: SafeGoogleFont (
@@ -63,7 +63,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // hamburgervDb (45:2)
+                    // hamburgerBKA (45:2)
                     margin: EdgeInsets.fromLTRB(0*fem, 9*fem, 0*fem, 0*fem),
                     child: TextButton(
                       onPressed: () {},
@@ -74,7 +74,7 @@ class Scene extends StatelessWidget {
                         width: 33*fem,
                         height: 33*fem,
                         child: Image.asset(
-                          'assets/page-1/images/hamburger-CQV.png',
+                          'assets/page-1/images/hamburger-Wep.png',
                           width: 33*fem,
                           height: 33*fem,
                         ),
@@ -85,21 +85,21 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // listings1kq (45:38)
+              // listingsrw6 (45:38)
               margin: EdgeInsets.fromLTRB(17*fem, 0*fem, 18*fem, 26*fem),
               width: double.infinity,
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // productlistwuP (57:25)
+                    // productlistbdn (57:25)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 21*fem),
                     width: double.infinity,
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // p1UPX (57:26)
+                          // p18Np (57:26)
                           padding: EdgeInsets.fromLTRB(12*fem, 12*fem, 10*fem, 10*fem),
                           width: double.infinity,
                           decoration: BoxDecoration (
@@ -110,7 +110,7 @@ class Scene extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: [
                               Container(
-                                // rectangle8axM (45:44)
+                                // rectangle8EAx (45:44)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 22*fem, 2*fem),
                                 width: 90*fem,
                                 height: 90*fem,
@@ -120,27 +120,27 @@ class Scene extends StatelessWidget {
                                   image: DecorationImage (
                                     fit: BoxFit.cover,
                                     image: AssetImage (
-                                      'assets/page-1/images/rectangle-8-bg-kmb.png',
+                                      'assets/page-1/images/rectangle-8-bg-ida.png',
                                     ),
                                   ),
                                 ),
                               ),
                               Container(
-                                // autogroup1jnb5u7 (PW9JHMQBSpxPY2ktKD1jNB)
+                                // autogrouparigvpU (RzCkb5b3MX132Dauy9arig)
                                 margin: EdgeInsets.fromLTRB(0*fem, 8*fem, 0*fem, 0*fem),
                                 width: 215*fem,
                                 child: Column(
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      // autogroups5ymzmB (PW9K1AXquBo5PHHfkMS5ym)
+                                      // autogroupsz68ekU (RzCmMZJvtZXZrgN8whsz68)
                                       padding: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 4*fem),
                                       width: double.infinity,
                                       child: Column(
                                         crossAxisAlignment: CrossAxisAlignment.start,
                                         children: [
                                           Container(
-                                            // jabrawirelessearbudsXWD (45:49)
+                                            // jabrawirelessearbudsnLt (45:49)
                                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 8*fem),
                                             child: Text(
                                               'Jabra Wireless Earbuds',
@@ -154,14 +154,14 @@ class Scene extends StatelessWidget {
                                             ),
                                           ),
                                           Container(
-                                            // autogroupwppdS7P (PW9JU1m5mZhmUskeUrWpPd)
+                                            // autogroupswvetep (RzCknA6v6Yppw8JokWswVE)
                                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 88*fem, 0*fem),
                                             width: double.infinity,
                                             child: Row(
                                               crossAxisAlignment: CrossAxisAlignment.start,
                                               children: [
                                                 Container(
-                                                  // views1kZSu (45:91)
+                                                  // views1kRek (45:91)
                                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 16*fem, 0*fem),
                                                   child: Text(
                                                     'Views: 1K',
@@ -175,7 +175,7 @@ class Scene extends StatelessWidget {
                                                   ),
                                                 ),
                                                 Container(
-                                                  // autogroupcko5H81 (PW9JZqvhdgmZ1mvV6wcko5)
+                                                  // autogrouptfw29Kr (RzCkta5twtCPcv6RqQtfw2)
                                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 2*fem),
                                                   padding: EdgeInsets.fromLTRB(10*fem, 1*fem, 8*fem, 0*fem),
                                                   decoration: BoxDecoration (
@@ -186,18 +186,18 @@ class Scene extends StatelessWidget {
                                                     crossAxisAlignment: CrossAxisAlignment.center,
                                                     children: [
                                                       Container(
-                                                        // vectorAxV (45:98)
+                                                        // vectorT5e (45:98)
                                                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 6.5*fem, 1*fem),
                                                         width: 12.5*fem,
                                                         height: 10*fem,
                                                         child: Image.asset(
-                                                          'assets/page-1/images/vector-jPs.png',
+                                                          'assets/page-1/images/vector-yUG.png',
                                                           width: 12.5*fem,
                                                           height: 10*fem,
                                                         ),
                                                       ),
                                                       Text(
-                                                        // 5pZ (45:93)
+                                                        // yJt (45:93)
                                                         '3',
                                                         style: SafeGoogleFont (
                                                           'Fira Sans',
@@ -217,21 +217,21 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Container(
-                                      // autogroupf54fR7j (PW9JhqhNsjq5yQfojBF54f)
+                                      // autogroupxb3ziGU (RzCm2V2NuUeEz8tvY6xb3z)
                                       width: double.infinity,
                                       height: 30*fem,
                                       child: Row(
                                         crossAxisAlignment: CrossAxisAlignment.center,
                                         children: [
                                           Container(
-                                            // autogroupab7hx7f (PW9JrqSPXJGp3zm3RwaB7h)
+                                            // autogroups5jrs9N (RzCmCPuXg5rUbGPFPrS5jr)
                                             padding: EdgeInsets.fromLTRB(0*fem, 3*fem, 13*fem, 5*fem),
                                             height: double.infinity,
                                             child: Row(
                                               crossAxisAlignment: CrossAxisAlignment.center,
                                               children: [
                                                 Container(
-                                                  // t1K (45:59)
+                                                  // CSY (45:59)
                                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 17*fem, 0*fem),
                                                   child: Text(
                                                     '₹ 8,999',
@@ -245,7 +245,7 @@ class Scene extends StatelessWidget {
                                                   ),
                                                 ),
                                                 Text(
-                                                  // may2021bgR (45:54)
+                                                  // may2021JkU (45:54)
                                                   '03 May 2021',
                                                   style: SafeGoogleFont (
                                                     'Fira Sans',
@@ -259,11 +259,11 @@ class Scene extends StatelessWidget {
                                             ),
                                           ),
                                           Container(
-                                            // autogroupccqhYLm (PW9Jnkircp8MymSZCHCcqH)
+                                            // autogroup9jr6rGC (RzCm7jNdnPQFN9SyhP9jR6)
                                             width: 30*fem,
                                             height: 30*fem,
                                             child: Image.asset(
-                                              'assets/page-1/images/auto-group-ccqh.png',
+                                              'assets/page-1/images/auto-group-9jr6.png',
                                               width: 30*fem,
                                               height: 30*fem,
                                             ),
@@ -281,7 +281,7 @@ class Scene extends StatelessWidget {
                           height: 10*fem,
                         ),
                         Container(
-                          // p2Fky (57:27)
+                          // p2W5r (57:27)
                           padding: EdgeInsets.fromLTRB(12*fem, 12*fem, 10*fem, 10*fem),
                           width: double.infinity,
                           height: 114*fem,
@@ -293,7 +293,7 @@ class Scene extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: [
                               Container(
-                                // rectangle119LZ (45:48)
+                                // rectangle11mXa (45:48)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 22*fem, 2*fem),
                                 width: 90*fem,
                                 height: 90*fem,
@@ -303,13 +303,13 @@ class Scene extends StatelessWidget {
                                   image: DecorationImage (
                                     fit: BoxFit.cover,
                                     image: AssetImage (
-                                      'assets/page-1/images/rectangle-11-bg-HVf.png',
+                                      'assets/page-1/images/rectangle-11-bg-iSQ.png',
                                     ),
                                   ),
                                 ),
                               ),
                               Container(
-                                // autogroup257h3gq (PW9H5ijYDCdhWtW8YL257H)
+                                // autogroupqbygsac (RzCj685w6SiMbCiJB6QBYg)
                                 margin: EdgeInsets.fromLTRB(0*fem, 8*fem, 17*fem, 5*fem),
                                 width: 168*fem,
                                 height: double.infinity,
@@ -317,14 +317,14 @@ class Scene extends StatelessWidget {
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      // autogroupuatmZv5 (PW9HZNc8RYtLVxLT2yUaTM)
+                                      // autogrouprgtkoDN (RzCjZmxXJnxzaGYcfjrgtk)
                                       padding: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 7*fem),
                                       width: double.infinity,
                                       child: Column(
                                         crossAxisAlignment: CrossAxisAlignment.start,
                                         children: [
                                           Container(
-                                            // macbookairhFb (45:53)
+                                            // macbookairXfA (45:53)
                                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 8*fem),
                                             child: Text(
                                               'MacBook Air',
@@ -338,14 +338,14 @@ class Scene extends StatelessWidget {
                                             ),
                                           ),
                                           Container(
-                                            // autogroupfyitQQu (PW9HETyy1PENpEktUTfyiT)
+                                            // autogroup9j7weDz (RzCjEHWzuR1FjfMGeR9J7W)
                                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 41*fem, 0*fem),
                                             width: double.infinity,
                                             child: Row(
                                               crossAxisAlignment: CrossAxisAlignment.start,
                                               children: [
                                                 Container(
-                                                  // views18kwQq (45:100)
+                                                  // views18kyn4 (45:100)
                                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 3*fem, 0*fem),
                                                   child: Text(
                                                     'Views: 1.8K',
@@ -359,7 +359,7 @@ class Scene extends StatelessWidget {
                                                   ),
                                                 ),
                                                 Container(
-                                                  // autogroupykxrTPB (PW9HKxpojfqRyV9RQNYKXR)
+                                                  // autogroupfewxhTA (RzCjL7gcmY53GZX7GWFEWx)
                                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 2*fem),
                                                   padding: EdgeInsets.fromLTRB(10*fem, 1*fem, 9*fem, 0*fem),
                                                   decoration: BoxDecoration (
@@ -370,18 +370,18 @@ class Scene extends StatelessWidget {
                                                     crossAxisAlignment: CrossAxisAlignment.center,
                                                     children: [
                                                       Container(
-                                                        // vectorLxm (45:103)
+                                                        // vectorzx4 (45:103)
                                                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 6.5*fem, 1*fem),
                                                         width: 12.5*fem,
                                                         height: 10*fem,
                                                         child: Image.asset(
-                                                          'assets/page-1/images/vector-yNV.png',
+                                                          'assets/page-1/images/vector-rMz.png',
                                                           width: 12.5*fem,
                                                           height: 10*fem,
                                                         ),
                                                       ),
                                                       Text(
-                                                        // 4ds (45:102)
+                                                        // vap (45:102)
                                                         '1',
                                                         style: SafeGoogleFont (
                                                           'Fira Sans',
@@ -401,13 +401,13 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Container(
-                                      // autogroupado1Qhj (PW9HTxbUyitxw7tk2cAdo1)
+                                      // autogroupykeqsFA (RzCjUMwsrxyd1S6ufNYkEQ)
                                       width: double.infinity,
                                       child: Row(
                                         crossAxisAlignment: CrossAxisAlignment.center,
                                         children: [
                                           Container(
-                                            // AB7 (45:63)
+                                            // Dpp (45:63)
                                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 9*fem, 0*fem),
                                             child: Text(
                                               '₹ 45,499',
@@ -421,7 +421,7 @@ class Scene extends StatelessWidget {
                                             ),
                                           ),
                                           Text(
-                                            // apr20215os (45:58)
+                                            // apr2021MRE (45:58)
                                             '20 Apr 2021',
                                             style: SafeGoogleFont (
                                               'Fira Sans',
@@ -438,12 +438,12 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // autogroupkcujERs (PW9HrCTRkFAEMMHMWtKCUj)
+                                // autogroupq9a4gyJ (RzCk8RgnYg8bA76WZ2q9A4)
                                 margin: EdgeInsets.fromLTRB(0*fem, 62*fem, 0*fem, 0*fem),
                                 width: 30*fem,
                                 height: 30*fem,
                                 child: Image.asset(
-                                  'assets/page-1/images/auto-group-kcuj.png',
+                                  'assets/page-1/images/auto-group-q9a4.png',
                                   width: 30*fem,
                                   height: 30*fem,
                                 ),
@@ -455,7 +455,7 @@ class Scene extends StatelessWidget {
                           height: 10*fem,
                         ),
                         Container(
-                          // p5iM3 (57:30)
+                          // p5CAx (57:30)
                           padding: EdgeInsets.fromLTRB(12*fem, 12*fem, 10*fem, 10*fem),
                           width: double.infinity,
                           decoration: BoxDecoration (
@@ -466,7 +466,7 @@ class Scene extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.end,
                             children: [
                               Container(
-                                // rectangle192cd (45:47)
+                                // rectangle19hdW (45:47)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 22*fem, 2*fem),
                                 width: 90*fem,
                                 height: 90*fem,
@@ -482,21 +482,21 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // autogroupqskuXZP (PW9EYTdaVtvnWyFJNLQSKu)
+                                // autogrouplwuvCqA (RzCgYwpAfbd8BhQHveLwuv)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 19*fem, 3*fem),
                                 width: 166*fem,
                                 child: Column(
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      // autogroup2kebf9o (PW9EjHesPYuXee8iP52Keb)
+                                      // autogroupypip8ip (RzCgkc9QPqkhFVjyApYpip)
                                       padding: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 9*fem),
                                       width: double.infinity,
                                       child: Column(
                                         crossAxisAlignment: CrossAxisAlignment.start,
                                         children: [
                                           Container(
-                                            // amazonalexazC5 (45:52)
+                                            // amazonalexaUGt (45:52)
                                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 6*fem),
                                             child: Text(
                                               'Amazon Alexa',
@@ -510,7 +510,7 @@ class Scene extends StatelessWidget {
                                             ),
                                           ),
                                           Text(
-                                            // views22kiNy (45:112)
+                                            // views22kCCt (45:112)
                                             'Views: 2.2K',
                                             style: SafeGoogleFont (
                                               'Fira Sans',
@@ -524,13 +524,13 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Container(
-                                      // autogroup9yqdT5f (PW9Ednp2fGJUVPkBTA9yqd)
+                                      // autogroupstknYGk (RzCgemynXiguiba8YjStKN)
                                       width: double.infinity,
                                       child: Row(
                                         crossAxisAlignment: CrossAxisAlignment.center,
                                         children: [
                                           Container(
-                                            // Pzu (45:62)
+                                            // 5nU (45:62)
                                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 31*fem, 0*fem),
                                             child: Text(
                                               '₹ 999',
@@ -544,7 +544,7 @@ class Scene extends StatelessWidget {
                                             ),
                                           ),
                                           Text(
-                                            // apr2021vV3 (45:57)
+                                            // apr20211g8 (45:57)
                                             '14 Apr 2021',
                                             style: SafeGoogleFont (
                                               'Fira Sans',
@@ -561,11 +561,11 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // autogroupd34oGJ1 (PW9EsNFjv4akCgprvrD34o)
+                                // autogrouppk9nMzt (RzCgvwBXak3LpgxReHpK9n)
                                 width: 30*fem,
                                 height: 30*fem,
                                 child: Image.asset(
-                                  'assets/page-1/images/auto-group-d34o.png',
+                                  'assets/page-1/images/auto-group-pk9n.png',
                                   width: 30*fem,
                                   height: 30*fem,
                                 ),
@@ -577,7 +577,7 @@ class Scene extends StatelessWidget {
                           height: 10*fem,
                         ),
                         Container(
-                          // p4aJh (57:29)
+                          // p4fkg (57:29)
                           padding: EdgeInsets.fromLTRB(12*fem, 12*fem, 10*fem, 10*fem),
                           width: double.infinity,
                           decoration: BoxDecoration (
@@ -588,7 +588,7 @@ class Scene extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.end,
                             children: [
                               Container(
-                                // rectangle16629 (45:46)
+                                // rectangle16nKW (45:46)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 22*fem, 2*fem),
                                 width: 90*fem,
                                 height: 90*fem,
@@ -601,21 +601,21 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // autogroupgqfzoSM (PW9FCXNVBc5kfeEuFzgqFZ)
+                                // autogroupeweggvg (RzChGbHSZ3ESr83RWheWEG)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 19*fem, 3*fem),
                                 width: 166*fem,
                                 child: Column(
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      // autogroupfqpy8Ud (PW9FX6fsTwGyyi3A8LFqPy)
+                                      // autogroup57jrDfi (RzChaFSgiKfAdeSbE457jr)
                                       padding: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 9*fem),
                                       width: double.infinity,
                                       child: Column(
                                         crossAxisAlignment: CrossAxisAlignment.start,
                                         children: [
                                           Container(
-                                            // lgmonitorU2h (45:51)
+                                            // lgmonitorZDn (45:51)
                                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 6*fem),
                                             child: Text(
                                               'LG Monitor',
@@ -629,14 +629,14 @@ class Scene extends StatelessWidget {
                                             ),
                                           ),
                                           Container(
-                                            // autogroupxkdrCDb (PW9FL29ziuTC4oKGLxxkdR)
+                                            // autogroupirmeg3W (RzChQWDvWdgJDLqvDPiRME)
                                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 23*fem, 0*fem),
                                             width: double.infinity,
                                             child: Row(
                                               crossAxisAlignment: CrossAxisAlignment.center,
                                               children: [
                                                 Container(
-                                                  // views26k7bT (45:108)
+                                                  // views26k15n (45:108)
                                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 11*fem, 0*fem),
                                                   child: Text(
                                                     'Views: 2.6K',
@@ -650,7 +650,7 @@ class Scene extends StatelessWidget {
                                                   ),
                                                 ),
                                                 Text(
-                                                  // hiddenpkm (57:21)
+                                                  // hiddenKsA (57:21)
                                                   'Hidden',
                                                   style: SafeGoogleFont (
                                                     'Fira Sans',
@@ -667,13 +667,13 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Container(
-                                      // autogroupvjq3AZj (PW9FQwBUTykU5A61p4vJQ3)
+                                      // autogroupmb5ws7z (RzChUqS3GVfo4oztDgmB5W)
                                       width: double.infinity,
                                       child: Row(
                                         crossAxisAlignment: CrossAxisAlignment.center,
                                         children: [
                                           Container(
-                                            // unD (45:61)
+                                            // DBr (45:61)
                                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 19*fem, 0*fem),
                                             child: Text(
                                               '₹ 9,100',
@@ -687,7 +687,7 @@ class Scene extends StatelessWidget {
                                             ),
                                           ),
                                           Text(
-                                            // apr2021S1T (45:56)
+                                            // apr2021w7r (45:56)
                                             '13 Apr 2021',
                                             style: SafeGoogleFont (
                                               'Fira Sans',
@@ -704,11 +704,11 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // autogroupvupqy1P (PW9FjRefTrL1nowSkrvuPq)
+                                // autogroupmmzwUda (RzChpADB6xQAibJaPvMmZW)
                                 width: 30*fem,
                                 height: 30*fem,
                                 child: Image.asset(
-                                  'assets/page-1/images/auto-group-vupq.png',
+                                  'assets/page-1/images/auto-group-mmzw.png',
                                   width: 30*fem,
                                   height: 30*fem,
                                 ),
@@ -720,7 +720,7 @@ class Scene extends StatelessWidget {
                           height: 10*fem,
                         ),
                         Container(
-                          // p3UTw (57:28)
+                          // p3Zuv (57:28)
                           padding: EdgeInsets.fromLTRB(12*fem, 12*fem, 10*fem, 10*fem),
                           width: double.infinity,
                           decoration: BoxDecoration (
@@ -731,7 +731,7 @@ class Scene extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.end,
                             children: [
                               Container(
-                                // rectangle13bYZ (45:45)
+                                // rectangle13gUk (45:45)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 22*fem, 2*fem),
                                 width: 90*fem,
                                 height: 90*fem,
@@ -740,27 +740,27 @@ class Scene extends StatelessWidget {
                                   color: Color(0xffc4c4c4),
                                   image: DecorationImage (
                                     image: AssetImage (
-                                      'assets/page-1/images/rectangle-13-bg-R8y.png',
+                                      'assets/page-1/images/rectangle-13-bg-xnQ.png',
                                     ),
                                   ),
                                 ),
                               ),
                               Container(
-                                // autogroup3sjyu3T (PW9G6v2rgF48sKpcwF3sjy)
+                                // autogroupt9a4CCC (RzCiAu7cmDb9TPgKGQT9a4)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 19*fem, 3*fem),
                                 width: 166*fem,
                                 child: Column(
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      // autogroup1j4bRGh (PW9GPuYYZrZPuYfBGF1J4b)
+                                      // autogroupvmrlXkG (RzCiTJowfcndLiu68bVmrL)
                                       padding: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 9*fem),
                                       width: double.infinity,
                                       child: Column(
                                         crossAxisAlignment: CrossAxisAlignment.start,
                                         children: [
                                           Container(
-                                            // googlehomeminiZNu (45:50)
+                                            // googlehomeminisZE (45:50)
                                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 6*fem),
                                             child: Text(
                                               'Google Home Mini',
@@ -774,14 +774,14 @@ class Scene extends StatelessWidget {
                                             ),
                                           ),
                                           Container(
-                                            // autogroup4cbm5MF (PW9GDL1qXaRhZ7cF294cBm)
+                                            // autogrouppguaQ3N (RzCiHp5mKJeohf8ttZpGua)
                                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 43*fem, 0*fem),
                                             width: double.infinity,
                                             child: Row(
                                               crossAxisAlignment: CrossAxisAlignment.center,
                                               children: [
                                                 Container(
-                                                  // views35kcry (45:104)
+                                                  // views35kLhi (45:104)
                                                   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 11*fem, 0*fem),
                                                   child: Text(
                                                     'Views: 3.5K',
@@ -795,7 +795,7 @@ class Scene extends StatelessWidget {
                                                   ),
                                                 ),
                                                 Text(
-                                                  // soldwuF (57:23)
+                                                  // soldGbN (57:23)
                                                   'Sold',
                                                   style: SafeGoogleFont (
                                                     'Fira Sans',
@@ -812,13 +812,13 @@ class Scene extends StatelessWidget {
                                       ),
                                     ),
                                     Container(
-                                      // autogroupyxmr6XF (PW9GHaPkzyoWpApP6tYxmR)
+                                      // autogroupjdvepMz (RzCiN4Tgni2cxiM2yKJdVE)
                                       width: double.infinity,
                                       child: Row(
                                         crossAxisAlignment: CrossAxisAlignment.center,
                                         children: [
                                           Container(
-                                            // F9F (45:60)
+                                            // NeQ (45:60)
                                             margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 20*fem, 0*fem),
                                             child: Text(
                                               '₹ 1,299',
@@ -832,7 +832,7 @@ class Scene extends StatelessWidget {
                                             ),
                                           ),
                                           Text(
-                                            // apr2021wnm (45:55)
+                                            // apr2021hgg (45:55)
                                             '12 Apr 2021',
                                             style: SafeGoogleFont (
                                               'Fira Sans',
@@ -849,11 +849,11 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // autogroupqv5yex5 (PW9GgjPqtYqHkwc5k9qv5y)
+                                // autogroupxqbj41S (RzCig3wi5pv57tXWNqxqbJ)
                                 width: 30*fem,
                                 height: 30*fem,
                                 child: Image.asset(
-                                  'assets/page-1/images/auto-group-qv5y.png',
+                                  'assets/page-1/images/auto-group-xqbj.png',
                                   width: 30*fem,
                                   height: 30*fem,
                                 ),
@@ -865,7 +865,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // paginationkkD (57:31)
+                    // paginationny2 (57:31)
                     margin: EdgeInsets.fromLTRB(113*fem, 0*fem, 113*fem, 0*fem),
                     width: double.infinity,
                     height: 23*fem,
@@ -873,18 +873,18 @@ class Scene extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // autogroupgsvmGyT (PW9DqeUFT3UHng4S1igsVm)
+                          // autogroupgzkxXQp (RzCfsdcLj1Ev8qEJBpgZkx)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 12*fem, 0*fem),
                           width: 21*fem,
                           height: 21*fem,
                           child: Image.asset(
-                            'assets/page-1/images/auto-group-gsvm.png',
+                            'assets/page-1/images/auto-group-gzkx.png',
                             width: 21*fem,
                             height: 21*fem,
                           ),
                         ),
                         Container(
-                          // autogroupergpnwo (PW9DvZVjC7mZo2qBUpeRGP)
+                          // autogroupjkve38G (RzCfwxpTUsEQzJPGC7jKVE)
                           width: 23*fem,
                           height: double.infinity,
                           decoration: BoxDecoration (
@@ -905,14 +905,14 @@ class Scene extends StatelessWidget {
                           ),
                         ),
                         Container(
-                          // autogroupy6nxHdf (PW9E8PVMVH8W3f4Wa5y6NX)
+                          // autogroupqpv6KrU (RzCgAHoFUnHSoQHYpeQPV6)
                           padding: EdgeInsets.fromLTRB(12*fem, 1*fem, 0*fem, 1*fem),
                           height: double.infinity,
                           child: Row(
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: [
                               Container(
-                                // autogroupln6w1Zf (PW9DzPigFE4y62KBwrLn6w)
+                                // autogroupz5uqffS (RzCg1ssbpS9Vshp6agz5UQ)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 13*fem, 0*fem),
                                 width: 21*fem,
                                 height: double.infinity,
@@ -934,11 +934,11 @@ class Scene extends StatelessWidget {
                                 ),
                               ),
                               Container(
-                                // autogroupoym1feD (PW9E3tcrAVue1N1tihoYM1)
+                                // autogroupsqiuLma (RzCg5NmmjhzAo3WoMYSqiU)
                                 width: 21*fem,
                                 height: 21*fem,
                                 child: Image.asset(
-                                  'assets/page-1/images/auto-group-oym1.png',
+                                  'assets/page-1/images/auto-group-sqiu.png',
                                   width: 21*fem,
                                   height: 21*fem,
                                 ),
@@ -953,11 +953,11 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // navbarnyj (57:32)
+              // navbarUct (57:32)
               width: 384*fem,
               height: 54*fem,
               child: Image.asset(
-                'assets/page-1/images/navbar-iHT.png',
+                'assets/page-1/images/navbar-htQ.png',
                 width: 384*fem,
                 height: 54*fem,
               ),

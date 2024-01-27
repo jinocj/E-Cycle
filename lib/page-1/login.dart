@@ -13,8 +13,8 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // loginBBB (3:142)
-        padding: EdgeInsets.fromLTRB(35*fem, 64*fem, 35*fem, 178*fem),
+        // loginTwA (3:142)
+        padding: EdgeInsets.fromLTRB(35*fem, 64*fem, 25*fem, 27*fem),
         width: double.infinity,
         decoration: BoxDecoration (
           color: Color(0xfff5f5f5),
@@ -24,14 +24,14 @@ class Scene extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Container(
-              // autogroupficbrYD (PW9Wdzp534HrWBx3JmFiCb)
-              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 1*fem, 57*fem),
+              // autogroupderzkvG (RzCzEBrrdzLnRTrkH9DeRz)
+              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 11*fem, 57*fem),
               width: double.infinity,
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Container(
-                    // backbuttonysj (3:183)
+                    // backbutton5Br (3:183)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 194*fem, 0*fem),
                     child: TextButton(
                       onPressed: () {},
@@ -42,7 +42,7 @@ class Scene extends StatelessWidget {
                         width: 46*fem,
                         height: 46*fem,
                         child: Image.asset(
-                          'assets/page-1/images/back-button-ETP.png',
+                          'assets/page-1/images/back-button-YdJ.png',
                           width: 46*fem,
                           height: 46*fem,
                         ),
@@ -50,7 +50,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    // ecyclerRj (3:144)
+                    // ecycleM9N (3:144)
                     'E-Cycle',
                     textAlign: TextAlign.center,
                     style: SafeGoogleFont (
@@ -65,8 +65,8 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // loginBiu (3:184)
-              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 226*fem, 30*fem),
+              // loginsNc (3:184)
+              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 236*fem, 30*fem),
               child: Text(
                 'Log in',
                 style: SafeGoogleFont (
@@ -80,7 +80,7 @@ class Scene extends StatelessWidget {
             ),
             Container(
               // loginwithoneofthefollowingopti (3:205)
-              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 83*fem, 16*fem),
+              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 93*fem, 16*fem),
               child: Text(
                 'Login with one of the following options',
                 style: SafeGoogleFont (
@@ -93,8 +93,8 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // socialloginCe1 (3:223)
-              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 45*fem),
+              // socialloginuKJ (3:223)
+              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 10*fem, 45*fem),
               child: TextButton(
                 onPressed: () {},
                 style: TextButton.styleFrom (
@@ -104,7 +104,7 @@ class Scene extends StatelessWidget {
                   width: 344*fem,
                   height: 57*fem,
                   child: Image.asset(
-                    'assets/page-1/images/social-login.png',
+                    'assets/page-1/images/social-login-MPr.png',
                     width: 344*fem,
                     height: 57*fem,
                   ),
@@ -112,14 +112,14 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // orGds (3:221)
-              margin: EdgeInsets.fromLTRB(10*fem, 0*fem, 10*fem, 42*fem),
+              // orndz (3:221)
+              margin: EdgeInsets.fromLTRB(10*fem, 0*fem, 20*fem, 35*fem),
               width: double.infinity,
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // line2Nwo (3:203)
+                    // line2inY (3:203)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 4*fem, 2*fem),
                     width: 150*fem,
                     height: 1*fem,
@@ -128,7 +128,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // oruB3 (3:204)
+                    // oregC (3:204)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 3*fem, 0*fem),
                     child: Text(
                       'Or',
@@ -143,7 +143,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    // line1oXK (3:202)
+                    // line1n1i (3:202)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 2*fem),
                     width: 150*fem,
                     height: 1*fem,
@@ -155,100 +155,102 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // loginformieH (3:224)
-              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 32*fem),
+              // group79WTW (I424:94;426:18)
+              margin: EdgeInsets.fromLTRB(4*fem, 0*fem, 6*fem, 26*fem),
+              width: double.infinity,
+              height: 57*fem,
+              decoration: BoxDecoration (
+                borderRadius: BorderRadius.circular(22*fem),
+              ),
+              child: Container(
+                // group80r1a (I424:94;426:19)
+                padding: EdgeInsets.fromLTRB(44*fem, 16*fem, 44*fem, 16*fem),
+                width: double.infinity,
+                height: double.infinity,
+                decoration: BoxDecoration (
+                  color: Color(0xffdedede),
+                  borderRadius: BorderRadius.circular(22*fem),
+                ),
+                child: Text(
+                  'Email',
+                  style: SafeGoogleFont (
+                    'Adamina',
+                    fontSize: 18*ffem,
+                    fontWeight: FontWeight.w400,
+                    height: 1.3625*ffem/fem,
+                    color: Color(0xff606060),
+                  ),
+                ),
+              ),
+            ),
+            Container(
+              // group79v1S (I424:115;424:101)
+              margin: EdgeInsets.fromLTRB(10*fem, 0*fem, 0*fem, 17*fem),
+              width: 344*fem,
+              height: 57*fem,
+              decoration: BoxDecoration (
+                borderRadius: BorderRadius.circular(22*fem),
+              ),
+              child: Container(
+                // group803rk (I424:115;424:102)
+                padding: EdgeInsets.fromLTRB(44*fem, 16*fem, 44*fem, 16*fem),
+                width: double.infinity,
+                height: double.infinity,
+                decoration: BoxDecoration (
+                  color: Color(0xffdedede),
+                  borderRadius: BorderRadius.circular(22*fem),
+                ),
+                child: Text(
+                  'Password',
+                  style: SafeGoogleFont (
+                    'Adamina',
+                    fontSize: 18*ffem,
+                    fontWeight: FontWeight.w400,
+                    height: 1.3625*ffem/fem,
+                    color: Color(0xff606060),
+                  ),
+                ),
+              ),
+            ),
+            Container(
+              // loginformGDi (3:224)
+              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 10*fem, 32*fem),
               child: TextButton(
                 onPressed: () {},
                 style: TextButton.styleFrom (
                   padding: EdgeInsets.zero,
                 ),
                 child: Container(
-                  width: double.infinity,
+                  width: 344*fem,
+                  height: 56*fem,
                   decoration: BoxDecoration (
                     borderRadius: BorderRadius.circular(22*fem),
+                    gradient: LinearGradient (
+                      begin: Alignment(-0.424, -1.536),
+                      end: Alignment(0.302, 2.25),
+                      colors: <Color>[Color(0xffff5a5f), Color(0xffc1839f)],
+                      stops: <double>[0, 1],
+                    ),
                   ),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.center,
-                    children: [
-                      Container(
-                        // autogroupubrsYdK (PW9WqaK7UqojyaLtdPuBrs)
-                        padding: EdgeInsets.fromLTRB(26*fem, 15*fem, 26*fem, 17*fem),
-                        width: double.infinity,
-                        decoration: BoxDecoration (
-                          color: Color(0xffdedede),
-                          borderRadius: BorderRadius.circular(22*fem),
-                        ),
-                        child: Text(
-                          'Email',
-                          style: SafeGoogleFont (
-                            'Adamina',
-                            fontSize: 18*ffem,
-                            fontWeight: FontWeight.w400,
-                            height: 1.3625*ffem/fem,
-                            color: Color(0xff6e6e6e),
-                          ),
-                        ),
+                  child: Center(
+                    child: Text(
+                      'Log in',
+                      textAlign: TextAlign.center,
+                      style: SafeGoogleFont (
+                        'Adamina',
+                        fontSize: 24*ffem,
+                        fontWeight: FontWeight.w400,
+                        height: 1.3625*ffem/fem,
+                        color: Color(0xfff5f5f5),
                       ),
-                      SizedBox(
-                        height: 18*fem,
-                      ),
-                      Container(
-                        // autogroup9wr3zER (PW9WuVNFpQiprymj1y9wr3)
-                        padding: EdgeInsets.fromLTRB(26*fem, 15*fem, 26*fem, 17*fem),
-                        width: double.infinity,
-                        decoration: BoxDecoration (
-                          color: Color(0xffdedede),
-                          borderRadius: BorderRadius.circular(22*fem),
-                        ),
-                        child: Text(
-                          'Password',
-                          style: SafeGoogleFont (
-                            'Adamina',
-                            fontSize: 18*ffem,
-                            fontWeight: FontWeight.w400,
-                            height: 1.3625*ffem/fem,
-                            color: Color(0xff6e6e6e),
-                          ),
-                        ),
-                      ),
-                      SizedBox(
-                        height: 18*fem,
-                      ),
-                      Container(
-                        // autogroupvunsT81 (PW9Wxpc3AmL8bVamwjVuns)
-                        width: double.infinity,
-                        height: 56*fem,
-                        decoration: BoxDecoration (
-                          borderRadius: BorderRadius.circular(22*fem),
-                          gradient: LinearGradient (
-                            begin: Alignment(-0.424, -1.536),
-                            end: Alignment(0.302, 2.25),
-                            colors: <Color>[Color(0xffff5a5f), Color(0xffc1839f)],
-                            stops: <double>[0, 1],
-                          ),
-                        ),
-                        child: Center(
-                          child: Text(
-                            'Log in',
-                            textAlign: TextAlign.center,
-                            style: SafeGoogleFont (
-                              'Adamina',
-                              fontSize: 24*ffem,
-                              fontWeight: FontWeight.w400,
-                              height: 1.3625*ffem/fem,
-                              color: Color(0xfff5f5f5),
-                            ),
-                          ),
-                        ),
-                      ),
-                    ],
+                    ),
                   ),
                 ),
               ),
             ),
             Container(
-              // donthaveanaccountsignuprR3 (3:220)
-              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 2*fem, 0*fem),
+              // donthaveanaccountsignupG7E (3:220)
+              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 12*fem, 94*fem),
               child: TextButton(
                 onPressed: () {},
                 style: TextButton.styleFrom (
@@ -287,6 +289,17 @@ class Scene extends StatelessWidget {
                     ],
                   ),
                 ),
+              ),
+            ),
+            Container(
+              // emailtextfieldCHi (424:17)
+              margin: EdgeInsets.fromLTRB(10*fem, 0*fem, 0*fem, 0*fem),
+              width: 344*fem,
+              height: 57*fem,
+              child: Image.asset(
+                'assets/page-1/images/email-text-field.png',
+                width: 344*fem,
+                height: 57*fem,
               ),
             ),
           ],

@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // cameraSHb (28:452)
+        // cameramDE (28:452)
         width: double.infinity,
         decoration: BoxDecoration (
           color: Color(0xfff5f5f5),
@@ -22,7 +22,7 @@ class Scene extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Container(
-              // autogroup5n4kxmj (PW9Q4rRpVD45SzM4ru5N4K)
+              // autogroupikdaWAp (RzCsF8zmeSY65mxdt7ikda)
               padding: EdgeInsets.fromLTRB(180*fem, 356*fem, 178*fem, 354*fem),
               width: double.infinity,
               decoration: BoxDecoration (
@@ -35,7 +35,7 @@ class Scene extends StatelessWidget {
                 ),
               ),
               child: Center(
-                // focusselectorrMK (30:15)
+                // focusselectorDqv (30:15)
                 child: SizedBox(
                   width: 56*fem,
                   height: 56*fem,
@@ -48,7 +48,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // controlpanelA77 (57:59)
+              // controlpaneljJU (57:59)
               padding: EdgeInsets.fromLTRB(44*fem, 24*fem, 44*fem, 24*fem),
               width: double.infinity,
               height: 130*fem,
@@ -59,7 +59,7 @@ class Scene extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // selectfromgallerybtn4CV (57:58)
+                    // selectfromgallerybtnSCt (57:58)
                     margin: EdgeInsets.fromLTRB(0*fem, 15*fem, 0*fem, 15*fem),
                     padding: EdgeInsets.fromLTRB(14.88*fem, 14.73*fem, 15.12*fem, 15.27*fem),
                     height: double.infinity,
@@ -68,12 +68,12 @@ class Scene extends StatelessWidget {
                       borderRadius: BorderRadius.circular(26*fem),
                     ),
                     child: Center(
-                      // vectorY7f (28:505)
+                      // vectorvtk (28:505)
                       child: SizedBox(
                         width: 22*fem,
                         height: 22*fem,
                         child: Image.asset(
-                          'assets/page-1/images/vector-joB.png',
+                          'assets/page-1/images/vector-8Hi.png',
                           width: 22*fem,
                           height: 22*fem,
                         ),
@@ -84,7 +84,7 @@ class Scene extends StatelessWidget {
                     width: 70*fem,
                   ),
                   Container(
-                    // shutterbtnSTw (28:483)
+                    // shutterbtn3Cg (28:483)
                     padding: EdgeInsets.fromLTRB(8*fem, 8*fem, 8*fem, 8*fem),
                     width: 82*fem,
                     height: double.infinity,
@@ -93,7 +93,7 @@ class Scene extends StatelessWidget {
                       borderRadius: BorderRadius.circular(41*fem),
                     ),
                     child: Center(
-                      // ellipse8kzR (28:482)
+                      // ellipse8Mz4 (28:482)
                       child: SizedBox(
                         width: double.infinity,
                         height: 66*fem,
@@ -111,7 +111,7 @@ class Scene extends StatelessWidget {
                     width: 70*fem,
                   ),
                   Container(
-                    // closebtnFwB (57:57)
+                    // closebtnGr8 (57:57)
                     margin: EdgeInsets.fromLTRB(0*fem, 15*fem, 0*fem, 15*fem),
                     padding: EdgeInsets.fromLTRB(15*fem, 15*fem, 15*fem, 15*fem),
                     height: double.infinity,
@@ -120,7 +120,7 @@ class Scene extends StatelessWidget {
                       borderRadius: BorderRadius.circular(26*fem),
                     ),
                     child: Center(
-                      // vectorxqb (28:498)
+                      // vectoraM2 (28:498)
                       child: SizedBox(
                         width: 22*fem,
                         height: 22*fem,
@@ -130,7 +130,7 @@ class Scene extends StatelessWidget {
                             padding: EdgeInsets.zero,
                           ),
                           child: Image.asset(
-                            'assets/page-1/images/vector-4td.png',
+                            'assets/page-1/images/vector-tQk.png',
                             width: 22*fem,
                             height: 22*fem,
                           ),
